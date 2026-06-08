@@ -1,0 +1,1545 @@
+Course: Introduction to Information Security
+Code(s): CS-6035
+Source file: Pasted text (7).txt
+Review count: 76
+
+========================================================================================
+
+Review 1
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 4 / 5
+Workload: 25 hours / week
+Date: May 20, 2026
+Term: spring 2026
+Review ID: AsXSpPZZ36Buac6bbnSyRA==
+Review:
+Pros: A learn-as-you-do introduction to lots of different information security topics. The ctf systems were well designed, fun to interact with as if you were almost in a real world situation, and the breakthrough moments when you find the flag are quite blissful.
+
+Cons: The biggest one for me is that everything I learned from this course was from links to publicly available articles and information. Paying tuition just to be referred to other peoples' explanations feels cheap. A major improvement would be if this course had lectures that actually related to the subject matter, which is really not too much to ask, as this course brings in millions of dollars every year. The professor is non-existent - you are quite literally paying for access to the class VM & ctf suite and the aggregated links from various online sources.
+
+If you take this course you will spend most of your time reading wikipedia or other articles, watching YouTube videos, or spending a lot of time making educated guesses trying to figure out the flags. The TAs do their job well but can really only restate and refer you to the instructions; ultimately you have to find the answer yourself. The discussion threads are filled with redacted comments.
+
+A bit of a warning, the past reviews make the course seem a bit easier and less time-consuming; they seem to have added more flags to each part since then (as evident by the un-updated json flag template files). Each week you have to start at ground zero on a topic which can be daunting and exciting depending on your perspective and how hard the last week's assignment was.
+
+Overall the built-up frustration of starting at the screen week after week sometimes not making progress for hours and being told to re-read articles so many times left a bad taste in my mouth. I cannot say I recommend this course.
+
+========================================================================================
+
+Review 2
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 12 hours / week
+Date: May 18, 2026
+Term: spring 2026
+Review ID: Flq5Ybni4B0gY/9Ddy8jjQ==
+Review:
+This course was a fun introduction to cybersecurity for me. I was completely new to CTF-style assignments and many of the concepts taught in the course. It definitely increased my interest in the field and also made me realize, as a developer, how little thought I had previously given to some of these areas. In industry, a lot of times we rely on analyzers and automated tooling to identify such vulnerabilities for us.
+
+This is a completely project-based course with no exams whatsoever. There are lectures available, but honestly I didn’t watch many of them because they felt somewhat disjoint from the actual projects. Most of the learning in this course came directly from working through the assignments themselves.
+
+The TAs are really helpful, and most of the assignments are genuinely fun to work on. While the assignments aren’t necessarily difficult, some can be quite time-consuming depending on how quickly you identify the vulnerabilities. The Binary Exploitation assignment was the most time-consuming for me, but also the most fun.
+
+I especially enjoyed the assignments on Man-in-the-Middle attacks, Machine Learning, Binary Exploitation, API Security, Database Security, and Log4Shell. I wasn’t a huge fan of the Malware Analysis assignment because Part 1 involved true/false-style questions, and I found it difficult to validate whether my reasoning was actually correct.
+
+One thing to note is that since most of the learning happens through the projects, if you don’t complete an assignment fully or score well on it, you may not clearly understand where you went wrong or how to improve. The solutions are not released (which is understandable since parts of the assignments are reused across semesters), so it’s important to be diligent while working through them.
+
+My recommendation to anyone taking this course would be to make the most of the office hours. The TAs spend a lot of time walking through the assignments and answering questions. If you start working on the assignments early and come prepared with questions, the office hours can be extremely helpful.
+
+Overall, I really enjoyed the course. I ended up getting an A and received full marks on all assignments except Malware Analysis Part 1.
+
+========================================================================================
+
+Review 3
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 4 / 5
+Workload: 25 hours / week
+Date: May 2, 2026
+Term: fall 2025
+Review ID: TMm0b/eRQ6sNPPPZknzHqQ==
+Review:
+Good course, but the course videos have nothing to do with the assignments. You need to be ready to capture the flag with a new tech stack every 2 weeks. I would have preferred less assignments and more time per given technology stack.
+
+========================================================================================
+
+Review 4
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: January 29, 2026
+Term: fall 2025
+Review ID: Bm6WunrnUMOeGi0X98AbfA==
+Review:
+This was an incredible course and Dr Wenke Lee is awesome. This class is basically a big CTF that is challenging, but they provide so much guidance and help, so it is still tough but very doable. I learned so much in this course, and they put so much effort into the labs and course material. If you are interested in cybersecurity, I cannot recommend it enough!
+
+========================================================================================
+
+Review 5
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 1 / 5
+Workload: 12 hours / week
+Date: January 5, 2026
+Term: fall 2025
+Review ID: XWsfAaR0RRg6WjjxRoF0Dg==
+Review:
+Coming into this course its important to understand 1) It is run by TAs 2) it is project based. The other reviews state this as well, so it should not be a surprise. It may definitely have been nice to have the professor more involved, and high-quality lectures related to the course content would have been amazing, but that is not part of the course.
+
+The projects in the class are structured as a CTF style assignemnt - for the most part, you are working to identify flags hidden in an application. You will need to download a VM for this, so give yourself time to troubleshoot that if needed. The projects are each created and run by teams of 2-4 TAs (easier projects have 2, others have more). There may be more TAs in the background, but I only interacted with 2-4 on ed discussion/office hours. For about 60% of the projects (including the hardest ones), the TA who did the bulk of the work creating the project has long left the position.
+
+My general gripes with the course -
+
+The TAs are inconsistent - on one project, you may be actively corresponding with the TA who designed and built it, while on others, you are talking to TAs who are more "maintainers."
+
+The quality of TAs - almost none of the TAs actually work in a cybersecurity role professionally - a lot of them are simply folks who took and completed the course previously. Some of them have been a TA for quite some time as well. A recurring theme, though, is that these TAs often have no professional cybersecurity experience, and cannot help/teach further than the projects. Most of these teams no longer have the creator of the project around, so a lot of answers to questions are "just figure it out" or "use your resources." It is pretty clear after the course that a lot of the TA's knowledge of cybersecurity does not go past what is taught in the course and is very surface-level.
+
+Ed discussion moderation - as the 1 - 2 weeks you have for each project goes on, you notice TAs remove/redact less and less from posts (as the volume of posts naturally goes up). If I had just waited until closer to the deadline on a few projects, the answer is pretty clearly written on ed discussion.
+
+You can find details on individual projects in the other reviews and I generally agree with those. The course heads really need to take a look at the overlap between projects (half of malware analysis just felt like the web exploitation project) and the usefulness of some projects (Machine learning was a complete waste of time). Many of the projects are at least 3-4 years old and may not be as relevant (the log4j project, while interesting, was little more than a wrapper around a hackthebox lab).
+
+========================================================================================
+
+Review 6
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 4 / 5
+Workload: 8 hours / week
+Date: January 4, 2026
+Term: spring 2025
+Review ID: GvorwXgJMs6F7hAO5LvZjg==
+Review:
+I achieved a solid A in this class and skipped doing the last assignment.
+
+Pros: Some fascinating topics. You learn quite a bit about foundational programming and computing topics. Things you are guaranteed to never use in your job, but you feel more accomplished knowing them, and are more well-rounded.
+
+Cons: If you find solving puzzles completely exciting, and being unable to solve some puzzles frustrating, this course will frustrate you. There were 2-3 assignments I couldn't figure out the final answer to, no matter what I did. I am confident that one of them was likely a bug in the assignment, but the TAs ARE NOT ALLOWED to help you. You either solve it, or you don't.
+
+I cannot overstate, you need to go into this class expecting that no matter how intelligent or accomplished you are, you may not solve every puzzle; AND be okay with not knowing why. Ha.
+
+========================================================================================
+
+Review 7
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 25 hours / week
+Date: December 30, 2025
+Term: fall 2025
+Review ID: toohORXUybDr8ej6qtCbDA==
+Review:
+This course felt more like a bunch of mini-courses, with most modules having a different set of TAs. It's entirely CTF based now. Most projects had flags that you'd submit, and the tasks that required code submissions ran it through an autograder. There's no subjective grading: you know your grade after each submission. There were some assignments with submission limits, but they were lenient and I never felt much pressure.
+
+This course will tear you up if you don't have a decent coding background. I took two years of Python in undergrad and still had to take some time brushing up on things.
+
+Some modules were better than others. MITM was easy and made for a good warmup. Malware analysis consisted almost entirely of reading reports and was kind of a letdown. Binary exploitation was tough for a lot of us (including me) but it was very informative.
+
+Extra credit was available on some assignments. You can't depend on it being there, but they do offer it at least sometimes. I'd say about 3 extra points in total were available on your final grade if you went for all of it.
+
+The professor was entirely absent. Not an announcement post, not a lecture video, nothing. The class was entirely run by TAs, at least from my perspective. That said, the TAs were helpful and the discussion boards will be your friend. You'll need to know how to do outside research (follow the syllabus) if something isn't familiar to you.
+
+The workload varies a lot. MITM took me ~10 hours or less, whereas binary exploitation probably took me at least 40.
+
+VM setup worked just fine on my Windows laptop. You'll want to know basic Linux commands (how to navigate the filesystem and run scripts, for example).
+
+I'd suggest doing some practice on HTB Academy ($8 a month with your student email) and/or picoCTF (free). There's other resources out there as well, like DVWA if you want to practice Database Security before you start the course.
+
+Overall, it was difficult but not unbearable. I got an A while working full time. I passed the OSCP in 2024 which helped a bit but there was still a lot of learning I had to do.
+
+========================================================================================
+
+Review 8
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 12 hours / week
+Date: December 22, 2025
+Term: summer 2025
+Review ID: FuW7Lf2BVGTKYArYj7f7ew==
+Review:
+There was nothing to work on for the first week of class. I made use of the extra time by learning how to use Wireshark more effectively. If you can learn how to filter and use the tool, it will help a lot with the Man in the Middle project. This class had no exams or quizzes; it was all projects. The hardest part of this class is the constant pressure of a new project due every week, especially if you are not familiar with the topic that week. Compared to classes with more traditional programming projects it can be frustrating. There often isn’t the ability to make incremental progress, you either get the solution or you don’t. Overall, I enjoyed the class. If taking in the Fall or Spring the relatively light workload would pair well with another class.
+
+========================================================================================
+
+Review 9
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 15 hours / week
+Date: December 16, 2025
+Term: spring 2025
+Review ID: Cgx+F1RHqMLnuayHYONU7A==
+Review:
+I will preface this by saying that this is my first OMSCS class and I actually took it fall 2025. Given that this is my first class and I have a non-CS background and also do not work in the CS field, I likely had to put more time in than most. I will give the good, the bad, and the ugly of the course for anyone who is new, experienced, or looking to learn.
+
+The good: The class is definitely a class of very collaborative classmates and TA's who are willing to help when you get stuck. I felt like the TA's in this class were substantially more helpful than any I had in my undergraduate coursework. The assignments were often informative and helpful me in understanding the work. It is also entirely project based, so if you are willing to sit through the problems., you can mostly likely get an A. Also, I found office hours incredibly helpful and the discussion boards were the biggest lifesaver for me. The autograder allowing multiple tries lets you retry submissions and the CTF style of most assignments lets you know you got the right answer before you go onto the next project.
+
+The bad: The professor for this class is a complete ghost, it's as if he does not exist. I do think this tends to potentially lead to a lack of consistency in some of the assignments and honestly some seemed a lot more valuable than others while others were not very valuable at all. It seems some groups of TA's put in a ton of effort to put together resources to help us and others didn't really seem to care as much. I can explain more in my comments below on each assignment. I think if the professor was active, maybe this could help some of the lacking areas. Also, the lectures are not very helpful in correlating to the assignments but teach general content. They are actually somewhat well written, but can often just be ignored as they don't clearly pertain to the assignments and it's a bunch of videos that are like 30 seconds long.
+
+The ugly: As I mentioned above, the thing that varied wildly in this class was the quality of assignments. Each assignment has its own TA's who do their own office hours once a week and respond on the discussion boards. Some of the assignments were incredible with super active TA's who were responsive and helped me learn from all my mistakes while other assignments seemed like TA's who just wanted to give a nearly identical assignment to previous semesters and hardly helped me learn anything even a complete beginner.
+
+Overall, I rated this course as a 3 because for me, it had some very good highs and some somewhat frustrating lows. It might prove useful for newer students or students who want what seems like an easier course to start off that as long as you commit the time, you can get a good grade. I have written some review of the assignments below:
+
+MITM: Rating: 6/10. I definitely had fun with this one; however, it really did frustrate a lot of students finding the flags in this course. Personally, I think it acquaints you with the Wireshark program, but doesn't teach you any real world uses it might be helpful. Documentation to learn about the protocols provided were not helpful and I Googled everything. TA's and classmates saved my first project here. The KQL stuff was mildly interesting for extra credit, but fairly pointless (Grade: 105/100)
+
+Machine Learning: Rating: 7.5/10. This is one that statistically people struggled with close to the most and I personally didn't feel that way. The Juypter notebooks provided are helpful an there are tons of resources available in the documentation that I supplemented online to get through this one. Hyperparamter tuning is long and annoying, but everything else was great. I didn't need a lot discussions boards or office hours for this one. (Grade: 100/100)
+
+Binary Exploitation: Rating: 9/10. Hardest assignment in the course without a question and the statistics given on the GitHub definitely support this (like 40% of students get A's where most projects are in excess of 65-70%). I struggled immensely having no Assembly and taking a vacation during this assignment too didn't help. I learned so much and it was honestly probably my favorite project and the TA's on Ed were incredibly helpful and super knowledgeable. Start early and you'll likely do much better. I didn't learn on office hours for this one. I didn't attempt the extra credit as a I ran out of time (Grade: 100/100)
+
+API Security: Rating: 5.5/10. Honestly found this one pretty easy after working to find what I was looking for and learned Postman is a pretty cool software. I didn't find the TA's posts super helpful here and had to figure it out myself, but honestly, one of the easier assignments so my comments on the Edboard posts are probably not too relevant. I suppose API's are important, but the specifics here didn't really seem to relevant to cybersecurity (Grade: 100/100)
+
+Web Security: Rating: 8/10. Postman was another good software here and writing some Python code to interact with API's was fun and I liked the very interactive environment. To me, this seemed like the most obviously relevant project of them all as API's exist everywhere and writing code to interact with them and use them is abundant in real world applications and the XSS and CSRF is some of the most interesting content. It also introduced me to basic Javascript which was cool. I don't recall needing to lean on office hours for this, but the TA's and classmates were very helpful. (Grade: 100/100)
+
+Log4Shell: Rating: 6/10. This is based on a very important but mostly obsolete exploit. It was a cool project though getting to write some Java code. That said, I don't think it focused much on the Log4J vulnerabilities as much as actually finding a spot that the flag could be exploited through navigating weird filtering parameters that seemed strange. TA's were helpful here and this is the only assignment that even touches Java and gives very few resources to navigate, but it wasn't hard and I never coded Java before. (Grade: 100/100)
+
+Malware Analysis: Rating: 2/10. Honestly, I thought is project was almost totally pointless and probably the biggest let down of the entire course from my expectations. There was no information given on malware, how to interpret the Joe Sandbox reports which is half the grade, and all the other stuff is a lot of random stuff for running scripts. I found the TA's not helpful here and this assignment really only taught me a few Linux shell commands I had to Google due to lack of content provided by the TA's.(Grade: 89/100)
+
+Cryptography: Rating: 6.5/10. I found this one both interesting and frustrating in some ways. The stuff on how to crack RSA was pretty interesting, but I found myself mostly Googling ways to crack the encryption rather than actually understanding the math behind what was going on. The office hours were the BEST for this one. It explained a ton about the breakdown of the problem and why it worked how it did. The Vigenere cipher code was also definitely fun to generate as well. I will say though that large numbers in Python can be annoying to work with and will frustrate you at times unless you've worked with it before and you'll have to do your own researching. (Grade: 100/100)
+
+Database Security: Rating: 7.5/10. I could have realistically only did like half this assignment an still got an A, but I did as much as I could until I got bored and just wanted to give up. I thought the office hours were okay and the TA's were decent enough. The content was definitely good and the feedback on the SQL injections portion were really good and the interference attack definitely made me tinker with data to see what I could pull from it. The office hours was not super helpful, maybe a little bit and I was irritated it was a 2 week assignment and they only had 1 office hours session rather than 2. Student engagement was low because it was the last project and many students hardly had to do anything to get an A. I did appreciate the environment provided, it was actually pretty helpful.
+
+========================================================================================
+
+Review 10
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 4 / 5
+Workload: 15 hours / week
+Date: December 5, 2025
+Term: spring 2025
+Review ID: RRm/hvoryLVrEKY1jIsQ+A==
+Review:
+Depending on your level of expertise will determine how your week goes. I had the hardest time with the binary exploration portion of the course. However, when the challenges dealt with web development and APIs I was able to crush it.
+
+The discussion board was super helpful for hints from students. I would have probably failed without the hints provided by others. The office hours had gems as well.
+
+Course is challenging, but super fun
+
+========================================================================================
+
+Review 11
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 7 hours / week
+Date: November 18, 2025
+Term: spring 2025
+Review ID: JSYEBKrCp/OkgYNve7bHkw==
+Review:
+This review is for Fall 2025, which isn't currently a selectable option.
+
+Background:
+
+6th course in program. have taken GIOS, SAT, AI4R, CN, AOS
+non-CS engineering degree for undergrad
+work as a devops eng
+Time: No lectures, no quizzes or exams. Just CTF-style mini projects.
+
+Man-in-the-Middle: 7h, 104/100; wireshark and knowledge of IP/TCP; fun intro. Feel like a detective.
+
+ML: 20h, 92.5/100; first time with pandas, numpy, sklearn. didn't want to tune params for last points. unspectacular. was just a "hello world" type intro to these libraries for a cybersec-related data set.
+
+Binary Exploit: 22h, 100/100; very fun and rewarding. no real exposure to ASM before this; did not attempt EC. The overflow attacks and ROP chain attacks were cool to learn about. Even though I'll likely never use in industry and mat'l is pretty niche, this was probably the funnest project in the course, and I was tempted to take the BinExp lab class.
+
+API: 7h, 100/100
+
+Web: 10h, 100/100; learned some XSS and CSRF
+
+Log4j: 14h, 100/100; did spend 4h half-heartedly trying the EC
+
+Malware: 6h, 89/100; only tried 1 runthrough for the T/F Joe Sandbox Reports and didn't want to bother
+
+Cryptography: 13h, 92.5/100; python scripting for crypto related stuff. Vigenere cipher code was kinda fun. Working with really large numbers for RSA was interesting. Got bored at end
+
+DB: 7h, 42.5/100; just did what I needed to squeak out an A in the course. Skipped some of the inference problems to work on SQL injection
+
+Experience: I enjoyed the course, mainly because I am avoiding courses that are exam-heavy or have a group project component.
+
+The professor was nowhere to be found. In other courses, they'll usually even make a single intro announcement at the beginning of the course, or have pre-recorded, decade-old lectures to watch. Nada from Lee. Entirely TA run.
+
+The TAs were excellent, managed the Ed discussion board well, responded very quickly to questions, and tried their best to give hints while not giving away too much.
+
+Overall, class feels more MOOC-y, as there were no lectures, and assignments just had some links for reading up on the subject for that project, but these were usually pretty good references.
+
+Class has definitely changed since Summer 2024, where more projects were added. Only wish all projects could just be released all at once at the start.
+
+========================================================================================
+
+Review 12
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 18 hours / week
+Date: August 23, 2025
+Term: summer 2025
+Review ID: R1Kj70Cla4uAqu/Wj9AR4Q==
+Review:
+Let me start with my TLDR: Its a fun course to learn surface level security knowledge. Be suspect of the difficulty and time commitments it currently shows. The class used to be much easier and less rigorous in the past. Advice: START THE PROJECTS EARLY!
+
+More in depth:
+
+This is my second course in the OMSCS program, with the first being ML4T. I also work full time as a Data Engineer.
+
+I imagine that when the TA's put together the course content, they did so with the vision of 'if i was training a jr cyber analyst, what should they know?'. If you are interested in learning that material than you will enjoy the content and projects.
+
+Overall I would say that this class is not 'easy' but 'straightforward'. Its 100% project based, so if you put in the effort you should get an A. This is a class with a wide breadth of topics, that are totally unrelated to each other. So, you can spend 8 hours on the API project but 50 on the binary exploitation project (yes, that was me). I would assume that for at least one project, you will have knowledge gaps and have to spend more time than you think.
+
+How it worked (for summer 25): Projects would open and you would have until Sunday midnight est to complete them. Usually the next project would open on Friday so if you got ahead of the game, you can have up to 9 days to finish each project. If you are not confident in binary exploitation, I would HIGHLY recommend working hard to make sure you have the 9 days for this project.
+
+What I liked:
+
+You will use a decent amount of tools, languages and techniques that will assist you in a jr. software/security career.
+
+Finding the flags is a nice dopamine rush :)
+
+TA's really go above and beyond in creating some helpful tutorials and relevant sources for research.
+
+All the projects are 'do-able'. I really had no assembly and computer architecture knowledge. But I was able to finish the binary exploitation project with an A. But to do so, I had to do a crash course in all of the above, along with the C debugger and was able to complete the project. Again, its all about the effort/time you put in.
+
+Once you finished your project, you were 'done'. Nothing else to worry about until the next project opens.
+
+What I didn't like:
+
+No relevant lecture content provided by the professor. I think that relying on the TA's for 100% of the content is shameful. For a supposed expert in the field, why is there no learning content for the projects? It seems very lazy and it's obvious the professor does not care at all about this class. Relevant lectures/overview on the topic for each project should be a bare MINIMUM for a professor. This would GREATLY improve the learning experience. I left the class getting an A, but honestly if you don't take diligent notes during your research into the topic and review them, its very easy to just brute force projects and not learn anything.
+
+I also think it is a huge waste that the database security project was 'last' because it was one of the better projects in my opinion.
+
+Time spent:
+
+For average hours per week I calculated the time from the day the semester started to the end, so there was 2 weeks where we didn't have any work because there was no final.
+
+I put together a list of time projects took me to get an A on all of them. Keep in mind, i'm a slow worker and liked to take my time to go in depth on the topics taking notes to learn more. If just 'getting the A' is your goal, you can probably cut these times in half because you can definitely game this class.
+
+(Man in the Middle): 30 hours (ML): 20 hours (Binary Exploitation): ~50 hours (API Security): 8 hours (Web Security): 20 hours (Log4Shell): 25 hours (Database Security): 20 hours (Cryptography): 20 hours (Malware Analysis): 15 hours
+
+========================================================================================
+
+Review 13
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: August 13, 2025
+Term: summer 2025
+Review ID: 4+N+5HpDIIcPjegkhLzJsg==
+Review:
+IIS was my second course in the program (after ML4T), and I took it as an exploration of computing systems. I had heard it was a good first/early course in the program.
+
+In one way, I strongly disagree that it's a good first course in the program. Your grade is entirely based on your project grades, which are a collection of capture the flag challenges that require you to learn the basics of various types of exploitation at various levels of modern computing systems. This means that your grade is not at all based on whether you do any reading or watch any lectures or can pass any exams. So in the sense that a first course in the program is intended to acclimate you to the kinds of work you are going to need to do as an online student throughout the graduate program, this one absolutely does not do that.
+
+But I think the reason that the course is sometimes recommended as a first course in the program is that it is a wide survey of topics that you can dive much deeper on, and I think that is actually a great reason to take it as a first course or an early course in the program. One week you're diving into javascript XSS attacks, and the next you're looking at buffer overflow exploits in C. You have to learn a lot on the fly, the challenges are really clever and fun, and you get exposure to lots of technologies and ideas of modern computing through the projects.
+
+I don't recommend this as a summer class if you've got plans for your summer. The turns are very tight for the projects (1 week each), and in particular, the binary exploitation project gave a lot of people headaches that would be worth at least two weeks in a spring/fall semester. I spent ~30 hours on it and went in with some C experience. But most of the projects are doable in more like 10-15 hours.
+
+Ed discussions for this course can bring out the best and worst in classmates and TAs. Some of the challenges are hard to hint without giving too much away, so sometimes folks are giving really useful and thoughtful insights in their responses about how to think about a flag. But TAs have to redact a lot, which makes some folks who are lost fairly snippy and unprofessional. And collaboration outside of Ed/Slack is strictly prohibited, which can be jarring for folks used to forming study groups or Discord servers to figure things out.
+
+========================================================================================
+
+Review 14
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 5 / 5
+Workload: 20 hours / week
+Date: August 12, 2025
+Term: summer 2025
+Review ID: UPMquKZjOzk3B7vxhaaTkA==
+Review:
+I should probably preface by saying I had to end up dropping the course because it was getting very difficult to manage coursework and work along with married life. I was really excited to take this course since before applying to OMSCS in Summer 2024; given the seemingly lighter reviews for the course I thought it would be a good summer course. Turns out right as I was applying for the program Dr. Lee decided to add a 9th project for the course and made them all for credit compared to 6 projects for credit in previous summers and 8 projects for full semesters.
+
+For the 9 projects: Each project was assigned out on Thursday night and would be due on the Sunday night the week after. So 9 days for each project with some overlap on new projects being released with the current project still not due yet. I already had a slow start to the course with the first project since capture the flag style projects were very new for me and then taking longer to finish on that projects and then subsequent projects created a vicious cycle for the rest of the course. After getting a 30% on the binary exploitation project and spending probably 50 hours on it I realized I was f**ked. Ironically that project had the most helpful and gracious TA of the course. Speaking of TAs...
+
+TAs: Look I really don't know how TAs in OMSCS are going through and I have largely given TAs the benefit of the doubt and I appreciate all of their help for what I'm assuming is a crap pay but holy hell can the ones in IIS stop with the massive God complexes? They seemed far more concerned with catching cheaters than actually helping students and when the topic of virtual machines was brought up their response was that they won't try at all to accommodate for Mac users.
+
+Overall I still think this is a cool course that's different than others. I know there were plenty of others in similar situations but it was hard to balance schoolwork and work. It seems like a lot of students got A's in the course so most important lesson I learned is that summer courses just aren't for me. I'll retake the class in a future full semester. I also recommend this course later in your omscs career. I really had no life until I dropped the course. Also it's pretty demoralizing when you're hard core struggling and everyone in Ed is posting about how great the class is going for them, but what can you do.
+
+========================================================================================
+
+Review 15
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: August 11, 2025
+Term: summer 2025
+Review ID: r85SdD7EI19H4+C884j5Og==
+Review:
+Pretty chill class overall. Material isn't the most interesting and the CTF project structure takes some getting used to. Most of the projects were very manageable with the weekly deadlines. Machine Learning and Binary Exploitation took much more time than the other projects. Biggest thing I learned is I much prefer projects that build on concepts over time rather than a bunch of cursory introductions to topics.
+
+Felt like I didn't really learn all that much by the end of the class. If I had to do it over again I'd probably skip this course, there are many other courses that have more interesting/valuable content.
+
+========================================================================================
+
+Review 16
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 12 hours / week
+Date: August 8, 2025
+Term: summer 2025
+Review ID: sO8OJlQ/P8sVDM5eftGHRA==
+Review:
+I took this course because I work full-time and don't like to overload myself with something overly difficult during the summer semesters. I chose IIS because I’d heard it was “not terribly difficult,” and since I work in cybersecurity, I figured it wouldn’t be a problem.
+
+Well, maybe that's true during a regular semesters. The summer session, however, turned out to be pretty challenging at times. Each lab varied in difficulty, ranging from trivial (PCAP lab – about 5 hours total) to demanding (Binary Exploitation and Web Security – 12 to 15 hours each). Binary Exploitation in particular seemed to be the most objectively difficult, as many people struggled with it. The course covers a lot of topics, so chances are you’ll hit something that stumps you for a while.
+
+In the summer semester, you complete one lab per week, and the short turnarounds on the labs made the course more challenging than I expected. That said, I still enjoyed it because it gave me the opportunity to practice on my skill sets. For someone who has never taken a security-focused course, it offers a clear look at why secure development and coding practices matter, and how things can go oh so wrong (Log4Shell).
+
+Overall, I’d give the course a 4/5. The machine learning component felt more tacked-on than security-focused. Also, there’s plenty of room to earn an A even if you bomb one assignment, you just have to work for it.
+
+========================================================================================
+
+Review 17
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 5 / 5
+Workload: 15 hours / week
+Date: April 24, 2025
+Term: fall 2024
+Review ID: h6gDxeb+528w5t9vavMMFA==
+Review:
+I took GaTech’s OMSCS Introduction to Information Security (IIS) and honestly, I walked away pretty disappointed. The assignments were CTF-style puzzles, which were fun at first, but they didn’t really connect to the actual security concepts we were supposed to be learning. There was no real structure—just a bunch of challenges that felt more like brain teasers than anything practical. The TAs were the worst part: they seemed inexperienced, often rude on Ed, and more interested in catching cheaters than actually helping students. It felt like I was reaching in for a handful of knowledge, but when the course was over, I was left with almost nothing. They really need better people running this class and a more meaningful approach to teaching security.
+
+========================================================================================
+
+Review 18
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 5 hours / week
+Date: April 21, 2025
+Term: spring 2025
+Review ID: txsWr+Hv3jXMCTwTKhWOpA==
+Review:
+A variety of topics/projects due every 1-2 weeks. I enjoyed some more than others but there is a good discussion and opportunities to go further into a specific project. I think there are a lot of follow-up courses that could be taken after this that you would be well prepared for but I didn't find anything too interesting for me. The projects were great and the TAs are great. Make sure to use both the Ed discussion boards and review the office hours because you can find a lot of helpful tips/advice when you get stuck, which you definitely will get stuck.
+
+========================================================================================
+
+Review 19
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 4 / 5
+Workload: 30 hours / week
+Date: January 3, 2025
+Term: fall 2024
+Review ID: KZVOAsUiCcRYWvy589p1bA==
+Review:
+I learned a lot of interesting high level security concepts. It was honestly a pretty good introduction. All the projects were unique and had a lot of breath. I even applied a medium LC dynamic programming problem in one of them. I don't believe this is class is as easy as the past reviews claim. I have 3 years of SWE experience and it wasn't a cakewalk for me at all. I have never touched on the topic of security. Although there was many frustrating moments, everything was doable. If you don't have enough background knowledge for a project, you HAVE to start early, ask questions, do a lot of research, and refer to the discussion. Overall, I enjoyed the class because of its unique format and interesting security content!
+
+========================================================================================
+
+Review 20
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 15 hours / week
+Date: January 2, 2025
+Term: fall 2024
+Review ID: vdc2JJgdBVre0voPteEauw==
+Review:
+To provide some background, I have a BS in Electrical Engineering and have been working as a software developer (primarily front-end) for two years. This was my first class in the OMSCS program, and while I did earn an A, I would recommend taking this course later in the program.
+
+The class is entirely capture-the-flag (CTF) focused, consisting of 9 CTF projects, 2 extra credit assignments, and an extra credit exam. I chose not to watch the lecture videos, as they did not contribute meaningfully to the projects. Additionally, I skipped the extra credit assignments. The most challenging aspect of this class was the limited support from the TAs, who, in my opinion, did not provide substantial guidance.
+
+Collaboration on assignments is not allowed, so you're entirely responsible for figuring out the challenges on your own. Many of the CTF tasks were vague, which added to the difficulty. What helped me the most was deciphering hints left by other students in EdDiscussion and taking breaks when I got stuck.
+
+For projects involving unfamiliar topics, you’ll need to spend time researching and understanding the relevant concepts. Unfortunately, while the assignments include reading materials that are sometimes helpful, the lecture videos do not add much value and feel like a missed opportunity to enhance learning.
+
+Some flags took me hours to figure out, which was frustrating, especially when the solution turned out to be much simpler than expected. Meaningful guidance from the TAs could have made these tasks less tedious.
+
+Despite the frustrations, I did learn some security concepts that made me more aware of how I secure myself and the information I share online. However, I don't think I would take this class again. While the absence of traditional exams was a relief, I believe the CTF format isn’t an ideal approach for teaching security concepts in an introductory course.
+
+========================================================================================
+
+Review 21
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 5 / 5
+Workload: 30 hours / week
+Date: December 26, 2024
+Term: fall 2024
+Review ID: B8xk7hq8qXY88mIgA9X/og==
+Review:
+I'm not someone who typically writes reviews for anything, but leaving a review for this class is important. Unfortunately, the end-of-year surveys for the class aren't structured so that students can give detailed feedback outside of general ratings, so a lot more could be said about it via a platform like this one.
+
+My sentiments about the class's difficulty are similar to those already expressed, so I'll try to add a few things I haven't read from other prior reviews.
+
+Projects:
+
+The class is all about coding and capturing flag projects. There are lectures, but they don't help with completing the assignments. Unless the requirements change, you can focus solely on the projects and consider the lectures optional.
+
+It would be helpful if the lectures correlated with the projects more, but you're left with getting information from the project description, office hours, Ed discussion platform (very controlled - more below), or general research.
+
+Unless you have a coding background, the projects may be challenging. For perspective, I'll share that I have a computer science background, but I've been a working professional for some time in non-technical roles, so I haven't coded in over a decade. I took the CS prep seminar class to understand what to expect with computing/python. I still didn't feel prepared.
+
+Based on some of the commentary, it's my guess that most students who found the work less challenging or "easy" were either technical, in the CS program, or had some related work experience. It's a required class for both the OMSCS and OMSCyber programs (with three tracks), yet everyone is expected to have the same level of understanding, and there isn't a grading curve.
+
+Once a project is released, you receive the instructions, background information, set-up instructions, and prerequisites, i.e., readings, videos, etc. If you have no knowledge, you must learn about the topic, read/ view the information, and then try to complete the project within 1-2 weeks. It's tough.
+
+For some projects, there was an underestimation of how much time students would need to complete them. For example, for the Database Security project, multiple people asked for more time to work on it since we only had 1 week; eventually, more time was allowed, but it cut into time for the next project. It was shared that the time estimation for projects came from previous semesters, but again, it's skewed when some students can jump right in and finish projects within a few days and others need to read documents first to understand the project.
+
+It does get better once you get a handle on what you need to do. Also, reading the posts in Ed can be helpful. The challenge is that TAs heavily monitor the posts, so anything too helpful may be deleted.
+
+Staff/ TAs:
+
+For our class, we rarely saw or engaged with the professor outside of central communications or office hours. The class appears to be run by the head TA, but having more checks and balances with the overall authority of that role may be beneficial.
+
+Some TAs' responses to questions on the Ed forum were sometimes seemingly condescending and harsh. Even if they get the same questions each semester, it's important to remember that some students are new to the school, not just the class. Students pay to be taught, not to be addressed in a manner that's not helpful or respectful. It creates an atmosphere where some may be intimated to engage, or people feel they need to apologize for asking questions.
+
+On another note, some TAs were very helpful and went above and beyond to help students.
+
+Overall:
+
+It should not be considered an "intro" class but it's a required class for OMS programs, so you should plan accordingly. If you're completely new to the program or technical concepts, I don't recommend taking it as your first or second class.
+
+There's discouragement against talking/ engaging outside of the forum. Also, the solutions aren't covered after each project is complete. Each week, we were ushered to start a new project, so there wasn't much time to absorb all that we had to learn about the subject matter.
+
+I agree with the recommendations listed in the August 12th review below. There should be different versions of the class per program and either fewer or some group projects allowed.
+
+It would be great if the program leaders and administrators took a deeper look at the following:
+
+student drop rate of the class along with which OMS programs they belong to
+student dropout rate after taking it as their first class
+statistics of how many people repeat the class
+statistics on how many people stay in the class after the withdrawal period per OMS program
+Grades of students per OMS program (there was also confusion about whether or not some students would be OK in the program if they only got a C in the class)
+It may help give more insight into how the class possibly impacts students' experiences and enrollment outside of the general surveys.
+
+My two cents. I hope this helps!
+
+*excuse any typos
+
+========================================================================================
+
+Review 22
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 4 / 5
+Workload: 33 hours / week
+Date: December 8, 2024
+Term: fall 2024
+Review ID: syFKgJRAky7HBPHG+7WviQ==
+Review:
+I kept track of all the hours I put in. I started the clock as soon as I sat down at my desk, the time is inclusive of everything (setting up VM's, reading project docs, research, office hours). I ended the course with an A and roughly 442 hours put in. For background, my undergrad is CS, I have a full time full stack coding bootcamp under my belt, and have been a full time SWE for several years. Everything you learn in this course is self taught, google is your friend, there is a lot of guesswork with most of the CTF's. I don't have a cyber background, I enjoyed the course.
+
+Project Dates Hours Man in the middle 08/23 - 09/01 47h Machine Learning 09/01 - 09/15 100h API security 09/15 - 09/22 17.5h Log4Shell 09/22 - 10/06 37h Malware Analysis 10/06 - 10/13 32h Cryptology 10/13 - 10/27 57h Database Security 10/27 - 11/06 51h Binary Exploitation 11/03 - 11/17 83h Web Security 11/17 - 11/24 17.5h
+
+========================================================================================
+
+Review 23
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 4 / 5
+Workload: 18 hours / week
+Date: December 4, 2024
+Term: spring 2024
+Review ID: m1dYX+/o+RiknX/VR2yKvw==
+Review:
+I took the course in Fall 2023 as my first course in the program. This was my first time using the "capture the flag" learning style. It was pretty interesting to see a lot of topics covered, from network security to database security to binary exploitation, etc. All the projects were individually completed, with no exams, quizzes, or finals. Some projects required more time than others to complete, and they were all graded on Gradescope. The Ed discussion forum was always helpful, and the office hours hosted by the TA also provided a lot of support in completing the projects. Overall, it's a good course to take as your first/last class or even to pair with a more demanding class.
+
+========================================================================================
+
+Review 24
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 4 / 5
+Workload: 20 hours / week
+Date: November 24, 2024
+Term: summer 2024
+Review ID: 1OdGN3lwKBmyisbd6zXsFA==
+Review:
+I took this course in Fall 2024 (not summer 2024 like I mentioned here, I just couldn't find the option of Fall 2024). This is my first course in OMSCS. I graduated in 2021 with a bachelor's degree in computer engineering and worked 3 years as a Solution Architect in the infrastructure industry.
+
+This course is NOT an easy A. Yes, many of us ended up getting As but we actually had to work for hours to earn it. The course is project based, no midterms, no lectures, no final. Just projects. All projects are individual projects. (I don't want to get into the flow of this course too much because it's pretty much fairly covered by the other reviewers)
+
+The TA that is assisting in the project can HIGHLY impact your grade. For example, one of the projects is "Binary Exploitation". The TA's responses to our questions were so detailed, with screenshots and explained to us where we went wrong and how to fix it. On the other hand, a much simpler project, "database security" was a NIGHTMARE to many of us. Not because the content was hard, but because the wording was confusing, there was little to no guidance from the TA and most questions were either redacted by the TA or the "hints" can't even be considered as hints. So even though the content/material of the binary exploitation project was much harder than the database security project, many of us ended up getting 100 on the binary exploitation project and settling for a 70-80 in the database security project.
+
+I enjoyed this course very much. It was really fun, and I learnt a lot. But it was NOT easy at all. Everything revolves around self-studying which was the most challenging part of this course. The only thing that I would say that wasn't flexible was the office hours timing. Office hours were either 8pm or 9pm ET time which resulted in 3am or 4am in my time zone. So, I ended up not being able to attend any because I have work in the morning. Having extra office hours from 4pm or 5pm ET time so that it can accommodate other students was declined. So I guess this was the one thing that really bothered me about this course.
+
+========================================================================================
+
+Review 25
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 20 hours / week
+Date: August 26, 2024
+Term: spring 2024
+Review ID: zGuMkfD+0PJ9UKg0xt9o+g==
+Review:
+I enjoyed this class, but some days I wanted to throw my laptop out a window. The class has an ever-changing set of individual projects. If I recall correctly, each one was of a capture-the-flag variety. Most of the projects help you understand how a programming language can be used to exploit a system. The Log4Shell one was eye-opening.
+
+The class can be incredibly frustrating and incredibly rewarding during every project. Most of the time, the students have very little idea how to start. Then, little by little, people start getting it. Then, those who figure out the tricks start leaving hints for everyone else. As the project period moves on, the hints get more and more overt until someone eventually overdoes it. A hand gets slapped, and the hints keep coming.
+
+If you happen to know one of the tools well, your biggest challenge will be overthinking your problems. Even if you don't know the tool well, you'll probably overthink things. Read instructions very carefully. Read them several times. Help others when you can - they may lend you a helping hand later on.
+
+========================================================================================
+
+Review 26
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: August 17, 2024
+Term: fall 2023
+Review ID: o6S8rstKct8Vt6oBmGAUKA==
+Review:
+Terrible way to learn information security. Just try out hack the box or try hack me instead.
+
+========================================================================================
+
+Review 27
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 4 / 5
+Workload: 35 hours / week
+Date: August 12, 2024
+Term: summer 2024
+Review ID: ev5gl2M7ax2eq71AhVNiEg==
+Review:
+For awareness, I am a CY policy track student. I did my best in advance to meet the prerequisites. They do well posting the prerequisite material in advance however the material is quite broad and varied so it is quite difficult to effectively prepare.
+
+The summer course has 9 projects in 11 weeks, roughly a week per project. I cannot give the TAs any grief for increasing the project amount vs. previous summer semesters, that is because Georgia Tech writ large requires summer courses to have a condensed timeline with the same course expectations as a typical semester.
+
+This course was challenging for many reasons.
+
+This course is project-based so there are no real lectures, mainly office hours to go over the project. The rules clearly state you cannot work with another student on the project, cannot hire a tutor, you must work on the project by yourself, or ask the TAs for help which is not an entirely unfair expectation however, there are a myriad of variables that can cause problems and this approach does not encourage data retention.
+
+The VM, I understand why a VM is used, however this variable makes it difficult to pinpoint what is going wrong. For instance, if the student is not receiving the expected results, it could be user error (e.g. problem with the code), the container is having issues and needs to be reset, the VM is not behaving correctly, etc. This happened to me many times, I had to re-download the VM 4 separate times because it would go so slow I couldn't type out a single line of code in the terminal and this was after I scoured troubleshooting videos and spoke to a TA only to be informed that while they acknowledged my issues and they were highly unusual, no extension would be granted (I didn't ask for one).
+
+Trying to do too much for a broad group of people. If I understand it correctly, this class is mandatory for CS and CY grad students. These students are on very different playing fields and it shows. Half the class aces it, as they should with their background, and are left bored. The other half struggles consistently. I routinely put in 40ish hours of study each week. The focus is lost with the variation of subject matter. These 9 projects are well-crafted and I give kudos to their creators, however they cover areas ranging from Java, Python, cURL, malware, network packet analysis, machine learning, web vulnerabilities, binary exploitation, etc. I have taught courses for the better part of 10 years and I'm not sure what objective this course is meant to achieve other than testing the limitations of its students and their ability to quickly learn a complicated topic in a short amount of time. However, the audience is highly uneven. Recommendations: I'd recommend splitting the course between CS and CY students, keeping it the same for CS and for CY splitting it up into 4 modules, with 4 core group or individual projects with different variables, some CTF, some quiz, with half the projects focused on exploitation and the other 2 on defense. I was so fire hosed with information it is difficult to recall most of what I learned. I would have appreciated a more nuanced understanding of operational information security as it relates to cybersecurity. Also, please drop Intro from the title, that is an oxymoron for a graduate-level class, there is nothing introductory about a course when success hinges on prerequisite knowledge.
+
+It truly is a fun course, but I can say that now after I've passed, barely. I spent 10 years in the military, work as a defense engineer, have an undergrad in CIS, and have programming experience, and I have never been more overwhelmed in a class. I tried my best to research on my own, read through Ed Discussion, watch office hours, and every week, on top of my 50 hour work week, I was spending 40 hours on these projects. I felt like a failure most days. It's doable but understand what you're walking into. You will feel alone, you will feel lost, you will have to teach yourself a lot. This is expected. Also, effectively communicate where you are struggling, that makes the difference in the help you receive from the TAs.
+
+Anyway, toodles. Have fun future folks.
+
+========================================================================================
+
+Review 28
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 3 / 5
+Workload: 20 hours / week
+Date: August 6, 2024
+Term: summer 2024
+Review ID: MlkY7VItW3Qr7X0GIHYrLw==
+Review:
+This class now consists of 9 projects rather than the 4-6 that the previous semester reviews mention. The course instructors in their infinite wisdom decided to implement this change for the first time during a shortened summer semester.
+
+Pros:
+
+All assignments are auto-graded so you have immediate feedback.
+Cons:
+
+Almost every assignment uses a different language/toolset. If you aren't familiar with the language/toolset required for the assignment, you end up spending most of your time dealing with syntax and implementation issues even if you understand the underlying concept behind the assignment.
+Assignments rarely built on one another and were more of a scattered survey of the course topic. Combined with only having one week per assignment, I forgot anything I learned from the previous assignment context switching to the next.
+TAs are more focused on preventing students from helping each other too much rather than actually answering questions in a helpful manner.
+It doesn't seem the professor cares too much about the class since he rarely communicated in Ed. The professor and head TAs also hosted "joint" office hours, combining students from different classes, which caused a lot of confusion and miscommunication.
+I stopped working on the final assignment as soon as I completed enough problems to secure an A in the class. It seems like most students did as well, given that the average for most assignments was an A but an F for the final assignment. This was the worst class I've taken (out of 9) in the OMSCS program and the class where I learned the least.
+
+========================================================================================
+
+Review 29
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 6 hours / week
+Date: August 4, 2024
+Term: summer 2024
+Review ID: /oDJdM7IhrjkqvNwn2umTA==
+Review:
+I found this class easy overall and I’m someone who does not know much about security. Took it over the summer so it was fast paced with 8 or 9 projects each due every week. No exams and you are mostly doing capture the flag type hash submissions. TA gets some flack, but they were fair.
+
+========================================================================================
+
+Review 30
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 16 hours / week
+Date: July 24, 2024
+Term: summer 2024
+Review ID: szFGSy34W3OiXNupCVHubw==
+Review:
+I would say this is the most exciting course i have ever took. All the projects is like to solve a puzzle, once you got the flag, you will be excited. But if you stuck, terrible happens. Each project's flag is like a boss, you need to guess the password to pass the boss. if u stuck, try on another day is the best choice.
+
+No body can help u in this course, so it will be better if you have a good friend to help u take this course together, otherwise you will solve all the puzzle by yourself which quite tough, i guess half of the students will drop this course because of the heavy workload.
+
+It is only the course which require u few days to finish because u need to refresh your mind to get a good idea otherwise you will sit in front of your pc like a potato.
+
+I would say all the projects will not be hard and is good for new beginer, but the course is like a puzzle game, you need 15hrs + to solve each projects. All porjects is more or less like guess the answer, there will only one correct way to get the flag, no one can help. You just can guess yourself. So, it is quite time consuming, prepare yourself for this course.
+
+By the way, this summer the tutor increase the number of projects to 9, one project one week. Quite heavy work, if u take with another time-consuming course, it will be a terrible for u.
+
+========================================================================================
+
+Review 31
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: June 28, 2024
+Term: summer 2023
+Review ID: tetCdLOcmhTWCuaat2HjAg==
+Review:
+Video version: https://youtu.be/Fq9B3s6guIY
+
+This is a fun, project-based course. Your grade in this class is made up exclusively of the projects. I took the class in the summer—there were 7 projects (one was extra credit). In a normal semester (fall/spring), there are 8. For the most part, projects are in a fun "capture the flag" style that is common in security challenges. My favorite project was Log4shell and least favorite was Malware Analysis. Each project is run by a different TA, and they normally supplemental materials and video walkthroughs. That being said, some TAs are more helpful than others. For the most part, expect that you will be interacting with other students more than TAs in the forums.
+
+While lectures for this class are actually quite good--and the open source textbook has many great resources for students looking to dive deeper into particular topics, something all OMSCS courses should adopt--they are almost completely unrelated to the projects. The Cryptography project description recommended watching the RSA lecture, but other than that the lectures weren't mentioned at all. This was exacerbated due to the fact that there are no exams, so the lectures were completely unnecessary when it came to your grade.
+
+This class is a good introduction into the field of InfoSec and is easy-medium difficulty depending on your background. If you come into this class expecting a (mostly) fun set of security challenges with a solid collection of lectures and supplemental material, you won't be disappointed. Just don't expect too much support from the instructional staff.
+
+========================================================================================
+
+Review 32
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 4 / 5
+Workload: 15 hours / week
+Date: June 23, 2024
+Term: spring 2024
+Review ID: HMOH0Mli8rng3CFXGO61ww4SrWl6WSEFxtELq2Zt/HA=
+Review:
+Being a OMCyS policy student this course was a bit more challenging for me, but having a long career in IT and some experience with red teaming I was able to navigate it and come out with an A. I cannot say the same for most of the other policy students I talked to. Before taking this course make sure that you truly understand the prerequisites and are comfortable with them.
+
+I really enjoyed the CTF style of the course because it's instant gratification and scoring. That said, there is no instruction, and if you cannot quickly google and teach yourself you will struggle.
+
+========================================================================================
+
+Review 33
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: June 23, 2024
+Term: spring 2024
+Review ID: Mg8VbB4wqnj8Dv27PhxvHQ==
+Review:
+A little about me: I graduated with a bachelor's degree in CS last summer and got a SWE job midway through this course. This was my first course in the OMSCS program, and I got an A with a 91%. I had 99% before the last two projects, for which I did the minimum required to get an A.
+
+It's a survey course covering eight different security topics, split into 4 easier ones (with 10 days to complete each) and 4 more challenging ones (with 14 days to complete each). For the easier topics, I spent about 10 hours each, while the challenging ones took me between 15 to 30 hours. If you get stuck, though, there's little to almost no help available, perhaps the discussion board can help, but that's about it (For this reason, I recommend starting a little late so you can get more help). Don't get me wrong, the course isn't hard, but it does feel like they want you to learn the hard way. Clearer instructions could easily reduce a 10 hour project to 3 hours.
+
+Overall, I think it's a good course if you haven't taken a security course before or if you're interested in security topics. However, I wouldn't recommend taking it just because it's "easy," as getting stuck can be a real headache.
+
+Pro:
+
+You know your score instantly for every project
+Eight projects, no lectures, no quizzes or exams, no participation requirements, and no group work
+Relatively low time commitment
+Con:
+
+Unclear instructions turn a 3-hour project into a 10-hour one
+There's too much emphasis on catching cheaters rather than encouraging learning. For example, students are only allowed to communicate through the discussion board or Slack. Forming your own study groups is not allowed, and you can't contact other students privately for help
+I sometimes feel like I'm solving puzzles rather than taking a graduate level course.
+
+========================================================================================
+
+Review 34
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 7 hours / week
+Date: January 9, 2024
+Term: fall 2023
+Review ID: Phh7FsZIJClc3m8RyfXSqw==
+Review:
+1st class taken with a 93% (I had 100s on the first 5 assignments, so the last 2 I basically did the bare minimum to secure an A)
+
+This course is... interesting.
+
+"You get out what you put in" is somewhat accurate. Besides 1 or 2 flags, the only way for you to get a flag is to actually learn something. Problem is, learning something can only really be done by self-study. There isn't any lectures or instruction besides links to Research Paper's (which no-one is reading let's be real).
+
+Office hours are mostly there to poke fun at you, as the TA's are riddle master's narrowly avoiding answering any of your questions.
+
+The ONLY way to learn anything directly from this class is those ED Discussions. Those guys are troopers pointing you to articles that will teach you what you need, but it's still quite difficult to realize what it is you're looking for.
+
+Can't say my SWE career will really use any of this, but it was interesting. Not sure I'm the best person to write one of these as I'm grade focused not learning focused, but that being said I still managed to learn a decent bit from this (Wish I could have learned more about the TCP/IP stuff, but alas)
+
+To be clear, this class isn't hard. I'm sure there are far more time consuming and difficult concept classes. My gripe with this class is if there was maybe a 30 minute video explaining things, the workload would really only drop to about 3 hours a week. Majority of time spent is basically research rather than studying the material.
+
+If you are good at Ctrl+f and really know how to google specific things, I'd say about 7-8 hours a week, assuming you just want to finish the assignments.
+
+========================================================================================
+
+Review 35
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: December 11, 2023
+Term: fall 2023
+Review ID: jSu+CDiMUrb8ZzHzn3zGPA==
+Review:
+This was my first course in the OMSCY program, and it was an extremely frustrating experience. To add some perspective for my review, I received an A for this course and have three years of experience as a security engineer working in cyber defense roles. Overall, I spent about 10-15 per project (5-7 hours a week) for this class.
+
+==Instructors== To start, forget anything about the professor for this course. He had no interaction with the class during the semester. All teaching, grading, and office hours are handled by the TAs for this course. This makes sense in that the class is very large but some presence from the actual professor would have been nice. TAs are a mixed bag for this course. Some are very smart and clearly have a great deal of knowledge in their respective areas, most are satisfactory, and a few are so bad it absolutely ruins any good work the other TAs do. Announcements, project questions and general chatting occur in Ed Discussion and for the most part is not very helpful in that TAs rarely gave actual help, likely due to an overly strict interpretation of the OSI policy. It was a regular occurrence to see students genuinely asking for help/clarification on projects only to be put on blast by some of the TAs for not being “technical” enough. In some cases I saw I would even argue that it was borderline harassment/abusive. This toxic behavior and attitude throughout the semester was my biggest problem with the course and I cannot stress enough how much it bothered me that it was just accepted as normal behavior. If the desired outcome of this course really is a giant game of one-upmanship, then the TA team should be audited because there are zero acceptable reasons why someone who has no work experience in any information security role should be bullying others for their lack of knowledge on information security, much less serving as a subject matter expert for the course. The rationale given as to why this “approach” is done is that it’s a graduate level course with pre-defined prerequisites so it’s the individual students responsibility to have sufficient knowledge to do well in the class. In a vacuum this is a reasonable take, but the pre-requisites provided BEFORE the class lack the specific depth needed to actually prepare students for success. It’s like setting the pre-requisite for an operating systems class as “computer knowledge” and getting mad that people aren’t prepared. Providing detailed pre-requisites after the class has started serves no purpose and seems to be interjected as a scapegoat to prevent complaints.
+
+==Projects== For this term there were seven projects, each taking about two weeks to complete. It is CTF style in that you collect flags to submit for your grade, but most projects were relatively undeveloped compared to free CTF resources available. Overall, it felt like you were paying a grand to play a game when you would have been better off studying free resources like SEED Labs, TryHackMe, etc. This course has a VM image you are supposed to use for most of the projects and it’s just an absolutely unmitigated dumpster fire. I don’t know why but they choose Lubuntu as the distro to build it off of? Its hosted somewhere that is very slow so the download time for me even on symmetrical gigabit internet was a few hours. Many students including me had issues where the Lubuntu login screen for the VM would not respond, making it impossible to interact with it unless you spun up a new instance from scratch. It’s also documented that the VM is only to be used with VirtualBox, but I never got full functionality like copy/paste until I moved it to VMWare Workstation so maybe give that a try from the start. Once you have the VM stood up and functioning, you can move on to downloading the project materials for the given project because the 10Gb image doesn’t actually contain the files need for many of the projects. For each project the tasks and instructions were posted to a Github site. Unfortunately, it was often the case that I spent more time trying to decipher exactly what was being expected in the task, than completing it. There were a lot of hours spent confused on what exactly it was asking for, followed by an aha moment and then a couple minutes of work to actually get the flag. Ed Discussion rarely had any additional insight to help clarify and often critical information such as the password for the user account to be used and grade weighting for each task was stored in inconsistent locations (Canvas, Ed Discussion, Github, etc).
+
+Projects for the 2023 Fall term:
+
+Man in the middle: Examine a pcap file to extract answers to a number of questions. Mostly decent, but the pcap file is quite large resulting in search acting inconsistently in wireshark for me making this much more difficult than it should have been. This project also has a short second part focusing on discovering hidden webpage content. The instructions describe this as directory traversal attacks when it is probably closer to manually directory busting. TAs directly contradicted OWASP several times in instruction and project discussions for this part.
+Database security: Learn to bypass client and server-side SQL injection protections. This was alright but a bit too simplistic. If you have experience exploiting SQL injections, you’ll need to take a step back and simplify as traditional tools like Burp Suite and sqlmap won’t be helpful.
+Malware Analysis: Review several Joe sandbox reports for various malware samples. This was a frustrating project as there is no feedback mechanism in gradescope and you only get a few submissions. Do your best the first time then pray your guess and check nets you a few more points before you run out of submissions. Second, part for this project was using machine learning to classify malware samples. I felt this part really could have been expanded. Felt like I didn’t learn much but was interesting and engaging and wish there was more.
+API Security: Learn to exploit APIs with a provided swagger instance. Decent project but was somewhat dependent on doing the tasks in order, meaning you would have to redo work if you took a break and your VM was shutdown.
+Cryptography: This was very clearly the toughest one given for most students. A decent understanding of certain math concepts is needed to be able to do this in a timely manner. Previous experience in an undergraduate level cryptography course was extremely helpful for me. Some issues with automatic grading timing out with no debug/feedback information. Be prepared to unnecessarily implement something in multiple ways to get it to pass the auto grader.
+Binary Exploitation: I’d argue this is the best project of the course with the best instruction, but this would be another rough one to take on without any prior experience. Learned much from this project but unlikely to be directly useful except in other CTFs and certain offensive security or research roles.
+Log4Shell: Nothing great, nothing terrible. Experience in certain privilege escalation techniques (overwriting files, race conditions, etc) will be helpful even though privilege escalation isn’t performed.
+==Target audience and curriculum concerns== Throughout this course, it felt very confusing what the intended outcome and target audience of this course was supposed to be. In my head it made sense to think of it in terms of the three groups likely to be in this course: technical OMSCY students, OMSCS students with good computer science background and non-technical OMSCY students likely pursuing the policy track. Students with prior experience in technical information security roles will likely find this class flat and largely unhelpful. OMSCS students are probably the best served by this class in that they have the necessary background information to be able to absorb the why and how of each project and begin looking at things from an attacker perspective. From what I could gather from discussions, for students who aren’t technical in the OMSCY program this course is a terrible time and will require significant effort. From a content perspective, this class could use some changes as well. In addition to the project there are a number of optional lectures that cover the information security sphere much better than the projects alone. The issue arises in that the people who would benefit the most from this additional instruction are likely the people who are struggling with the projects. I know if I was spending 20+ hours a week on just the projects I wouldn’t want to spend any more time doing optional work.
+
+Another concern regarding the content of the class is that there is a bias towards web security throughout the course since many of the projects focus on it. It was clear by comments made throughout the course that many TAs and students were developing a troubling attitude where web security is the only important part of security, or that security is only important for developers to pay attention to because it will prevent some security dude from pestering you about your application. Coming out of this course it became extremely apparent why we encounter software engineers telling us that a publicly available MongoDB instance hosting sensitive data without authentication is actually a SQL injection prevention measure during remediation. Ultimately, I get the importance of web security, but rarely is the initial access server or host also the system hosting the sensitive data an attacker wishes to exfiltrate or encrypt for ransomware purposes. Attackers are forced to move laterally, evaluate attack paths, and gain additional access to fully complete their job and most of that is just not covered. It would be great to see some focus on things like the cyber kill chain model, MITRE ATT&CK and Active Directory security. Additionally, while there are other classes covering the topics regarding information security policy, it would be nice to acknowledge that policy and GRC team members are extremely valuable information security professionals and that they aren’t lesser humans because of the topic of their work.
+
+Overall, I can’t say I’d recommend this course to someone interested in information security. Unless you are in a program where you are required to take it, there are much better free resources that will teach you more with less effort.
+
+========================================================================================
+
+Review 36
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: December 1, 2023
+Term: fall 2023
+Review ID: rVZoM9vLC0WMje7ZbALhCkPa1AsvCv8zbCnkWUTHphQ=
+Review:
+I took this class along with GIOS. It is a perfect pair. Just projects. Definitely a good class to pair with a harder class.
+
+========================================================================================
+
+Review 37
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 7 hours / week
+Date: November 26, 2023
+Term: fall 2023
+Review ID: 7o9Z/9juCh8XotdKJOWDiA==
+Review:
+This was my 1st course in the OMSCS program that started in the Fall of 2023. I wanted an easy one just to understand the format and to get familiar with OMSCS. This course is really easy and complete hands-on with project-based assignments. It is easy to get an A in this.
+
+========================================================================================
+
+Review 38
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 3 / 5
+Workload: 20 hours / week
+Date: November 18, 2023
+Term: fall 2023
+Review ID: gy4SWTEzXlVx4tyswhYRLg==
+Review:
+This course is not even a college course. The course is structured as if you are taking a certification, except, of course, this is IN FACT a college course. The instructors need to open a dictionary and look up the definition of college and certification. College is to learn, however, this class expects you already know everything and you should just be able to complete the "puzzles". If I know everything, what would be the point of enrolling in college? Are the instructors forgetting once upon a time they also didn't everything? Speaking of puzzles, there are no examinations in the course, there are projects with ambiguous instructions in the form of hints and thus results in everything being a puzzle. You need to waste time going to EdDiscussions asking for further clarification and waiting for a response in order to figure out how to progress through the projects. Did I mention there are no lectures? The instructors also are not allowed to detail how the projects work, so if you want to actually learn the meat of what you're working on, you can't. Something has to be done here. This is supposed to be a cybersecurity course, the main thing I learned from this course is security through obscurity. Make your instructions vague, don't explain how the project works, and don't provide any lectures. This will make the course harder, however, I haven't learned anything. At some point in this course, for one of the projects, you are told to look at a 20 page research paper, expect to understand all of it, and pull out an algorithm from it to create in python. If you confront the instructors about this, you are told that it's a small paper, and that they personally have read much larger papers and written some and you only needed a little snippet of information. Yet the instructions state to read the entire thing. You can use that interaction/attitude to sum up what the class is all about. Hint, it's not about you, we are students, put yourself in our shoes. If I have spent years taking and pulling apart motors its obviously very easy for me and it would be silly of me to expect a student to know how to do that simply because I did it many times before. This shouldn't even have to be explained.
+
+========================================================================================
+
+Review 39
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: November 17, 2023
+Term: fall 2023
+Review ID: iCk7CFWEWexFSApgNM7Z7w==
+Review:
+The concepts of the course are very interesting, but like other reviewers have mentioned there is minimal lectures to leverage. I’d personally only watch the cryptography or the buffer overflow lectures as they were quite helpful. Otherwise I didn’t find the lectures valuable to the course.
+
+Generally the TAs are below average in instruction and support. I’d be careful of the binary exploit project as the main TA is completely inappropriate and I’ve reported him due to his negative attitude and rude responses to students. Otherwise the TAs are ok but mostly unhelpful. I found the other students way more supportive and helpful.
+
+It’s my first class and it was an easy A. I wouldn’t recommend it because of the lack of TA/professor support. I wish I learned more
+
+========================================================================================
+
+Review 40
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 12 hours / week
+Date: November 16, 2023
+Term: fall 2023
+Review ID: 5uLbrg180nX94g5W9DWc7Q==
+Review:
+I did my undergrad in CS and have interned at two big tech companies. This was my first OMSCS course. Here are my thoughts:
+
+There are no exams in this course. Only projects, each in CTF style. The instructions are more like hints/riddles. This is the schedule we were given: Assignment: Release Date: Due Date: Weight: Man in the Middle August 26 September 5 13.0% Database Security September 6 September 16 13.0% Malware Analysis September 17 September 27 13.0% API Security September 28 October 8 13.0% RSA Cryptography October 9 October 22 16.0% Binary Exploitation October 23 November 5 16.0% Log4Shell November 6 November 19 16.0%
+
+As you can see, it's about two weekends per project. Some projects are naturally harder than others. My grades were as follows: Man in the Middle 100 Database Security 100 Malware Analysis 97.5 API Security 100 Cryptography 85 Binary Exploitation 80 Log4Shell 80
+
+It's worth noting that I only did enough to get an A, so I didn't try as much towards the end. I could generally finish all of these projects in 1 weekend (but like the WHOLE weekend morning till night). You can also space it out. Ed discussions are super helpful. If you want clear instructions, this course isn't for you. It is intentionally a ctf style class that promotes research style self learning. No lectures.
+
+========================================================================================
+
+Review 41
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 8 hours / week
+Date: November 13, 2023
+Term: summer 2023
+Review ID: hKUrquS3h8rEue9ZD5pSeg==
+Review:
+I'm a full-time SWE at big-tech (with 2 YOE), and this was my 1st OMSCS course. While the other reviews about this course are correct about this being more of a "capture the flag" kinda course that doesn't seem so graduate level or doesn't have much to offer in terms of learning, I want to highlight some other aspects here, so do give this a read.
+
+The weekly assignments / tasks have just the right amount of difficulty to help a new student succeed easily with an A grade and get a gradual introduction to the more holistic experience that OMSCS has to offer, and also get an overview of what is expected from a part-time student. You would get a good hang of managing all your assignments, work, submitting them, participating in discussion forums, keeping regular track of communication / emails from the instructors / TAs etc. Even though this might sound lame to current students, these experiences are quite a big change for someone who is just starting out with part-time studies after many years.
+
+Managing a full-time job along with a masters degree can be daunting, so it is only natural to find it difficult to immediately transition into a new routine after multiple years of working full-time. You would suddenly notice your weekends getting overused for coursework, and you might miss out on a lot of fun activities or social interactions.
+
+I am glad that I took this as my first course - it didn't burn me out at all, and at the same time helped me inculcate a weekly, disciplined routine for managing coursework along with a full time job, while also leaving some time for my hobbies and indulgences, some of which I knew I might have to sacrifice in future semesters due to increased coursework.
+
+OMSCS is a marathon, and this course was the perfect starter to smoothly transition into it and get well prepared before taking other OMSCS courses. I would totally recommend it to someone who is looking for their 1st course, and wants an experience that will help them get geared up for a long-term commitment towards getting a part-time degree, while also not drastically changing their ongoing lifestyle.
+
+Having said that, this course can also be a viable option for experienced OMSCS students who don't really want to drop the semester, but would prefer a light course that would help them devote more time to their personal life for a bit.
+
+P.S.: Here is a hint to help you succeed in this course and get an easy A:
+
+Contrary to most reviews or recommendations, try to start your weekly assignments a bit late, rather than as soon as they're posted. You'd have enough posts on the discussion forum to read through by then which will save some repetitive work from your end, and also skip experiencing modifications in the question prompt (if any) which might happen in case some students point out certain ambiguities.
+
+========================================================================================
+
+Review 42
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 2 / 5
+Workload: 5 hours / week
+Date: November 7, 2023
+Term: fall 2023
+Review ID: 88vp4skNB3QCasINaU5Heg==
+Review:
+Like many others, the allure of a project based course pulled me in.
+
+However, don't let this course fool you.
+
+If you have even a basic understanding of CS topics, and computer networking, this course likely will teach you absolutely nothing.
+
+The hardest parts about the projects were not the concepts, they were deciphering the god awful project specs and trying to discern what "extra" stuff needs to be done in order to get points for the problems.
+
+This often resorts to downright begging the rude and completely useless TA's for a crumb of a hint.
+
+More often than not when you find out exactly what they want you to do, it's extremely trivial and you learn nothing from the process.
+
+Project 1 was awesome, project 6 and project 7 were okay, the rest were outright useless.
+
+Do not take this class, unless you want an easy A. It's a waste of $$$ and time.
+
+========================================================================================
+
+Review 43
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 4 / 5
+Workload: 15 hours / week
+Date: October 20, 2023
+Term: spring 2023
+Review ID: 96rhxwGKOhzNGYf+0agVKQ==
+Review:
+Like many students, this was the first course I took to kick-off my OMS Cybersecurity journey. Honestly, this course left a bad taste in my mouth regarding the program. My biggest complaint is that this class feels less like higher education experience and more like capture the flag competition that costs you $1000 to play.
+
+The good: All assignments are setup as projects. There are no quizzes, tests, term papers, or group projects. Also, GT has been able to scale this course up to huge class sizes, so often times projects are auto-graded (almost instantly, you'll receive a score that tells you which ones you got correct and which ones you didn't) and you have unlimited re-submissions.
+
+The bad: There is minimal instruction. You are expected to have a somewhat deep knowledge of a wide breadth of topics. For the areas you are not well-versed in, you are expected to find the information on your own. And if you are not able to complete all tasks/goals, there no post-project debrief whereby you can actually learn and grow intellectually.
+
+There is a lot of legacy video lectures and other information that while available on the course portal page, are not relevant to the current implementation of the course. My number one suggestion is to update the video lectures with content for each of the projects (network analysis, machine learning, cryptography, etc.). Let's face it, if you are a software engineer you are probably not well-versed in network analysis whereas if you are a network engineer you are probably not well-versed in machine learning. Sometimes not knowing what to search for can be a problem with this class.
+
+The workload varied heavily for me. I was pretty knowledgeable regarding the first two projects, so my time per week on the first two projects was about 3-5 hours per week. On other projects, I spent 20+ hours per week and did not complete all the objectives.
+
+Even with all its flaws, if you are an information security track student, this is probably the course you want to take first to make sure you have what it takes to complete the program. Otherwise, I recommend putting this class off for later.
+
+========================================================================================
+
+Review 44
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 2 / 5
+Workload: 7 hours / week
+Date: August 15, 2023
+Term: summer 2023
+Review ID: zgMHxawDF1NZxVYd8Iu4aw==
+Review:
+Read my full review in a separate post. Thanks
+
+https://the11d.wordpress.com/2023/08/15/my-thoughts-on-iis-omscs-review-2/
+
+========================================================================================
+
+Review 45
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: August 13, 2023
+Term: summer 2023
+Review ID: b0LbvEdDe5hLb7FfEJu90A==
+Review:
+2nd paper in my OMSCS, got an A. I'm a little bit conflicted about IIS. The projects are incredible - they require the right amount of problem solving and are super engaging. Might be the best CS projects I've come across in my studies (incl. undergrad). However, the main drawback, is that there's no course plan as far as the lectures go (i.e. no guide as to which lectures to watch for each project). As such, I couldn't justify watching the lectures (which I normally like to do) as I did not know which lectures to watch for the week's project - and did not have the time to watch lectures which were not relevant to the project.
+
+========================================================================================
+
+Review 46
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: August 5, 2023
+Term: summer 2023
+Review ID: DgyoAWoELzCKa2AvtzXT9w==
+Review:
+Fun course, I took it as course #2 to satisfy my Foundational Requirement. The assignments are all Capture the Flag (CTF) style, "Google it and figure it out/figure out what works" style, with some components requiring a little bit of trial and error, or some Python code (although very little, like 5-10 line functions at max). I had almost no knowledge of Information Security and that would be the ideal audience/student for this course too, because it covers a lot of breadth in multiple areas (but very little depth). Projects span various vulnerability areas around Networking, Web APIs, Binary Exploitation, Log4j, Databases etc. You'll love this course if searching and playing with details to solve problems is your jam.
+
+========================================================================================
+
+Review 47
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 8 hours / week
+Date: July 6, 2023
+Term: spring 2023
+Review ID: oLNZ1hynBhKCfqMkrBzKqA==
+Review:
+Most of the assignments are really fun and engaging. Doing the assignment is like solving a puzzle. Except for the Machine Learning one, I hate it, completely pointless, the autograder will grade your submission based on how you match the indexes and column name of the data returned, which does not help students learn security nor machine learning in any shape or form. But besides this one assignment, loved this course.
+
+========================================================================================
+
+Review 48
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 3 / 5
+Workload: 5 hours / week
+Date: July 3, 2023
+Term: summer 2022
+Review ID: HbEYkatk+0l10XBA3CTqNg==
+Review:
+Waste of money because no lectures. Most of the assignments are bullshit and you dont learn anything. Some are good. Some weeks you can do 0 hours.
+
+========================================================================================
+
+Review 49
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 6 hours / week
+Date: May 8, 2023
+Term: spring 2023
+Review ID: B2R/DEtMZGuUBgdcFgzLTQ==
+Review:
+I'm an OMSCS student and this was class #5 for me. I have experience working with C, C++, Python in coursework and did web development before.
+
+In total, I averaged 6 hours/week over 16 weeks but this varied based on project. Man In the Middle and Project Malware Analysis projects took me 6-7 hours each to finish. On the other hand, ML on CLAMP took me 22 hours to finish.
+
+I would say this class asks for you to use a lot of different skills depending on the project. The TAs were accessible and responsive in Ed and offers lots of resources and office hours. However you will need to be very proactive. For each project, I definitely had to scour the Ed threads to find any tips.
+
+I think this class is good for someone if they are fine with googling things as needed and are comfortable with a course that is more projects-based. I got a lot of exposure to different types of security vulnerabilities. If you're not as comfortable with this setup, it might be a less pleasant experience.
+
+If there is any extra credit, definitely do it! This allowed for me to take a lower grade in my final project and maintain my grade.
+
+========================================================================================
+
+Review 50
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 8 hours / week
+Date: April 30, 2023
+Term: spring 2023
+Review ID: Ojl0MXcRXugZ07N2iC5wNA==
+Review:
+This course was okay. It had some very fun projects that opened your eyes to vulnerabilities. I'd probably recommend taking this one alone if you want to get the most out of it with an almost guaranteed A (effort required).
+
+You'd have to be able to hammer out a few late nights during week days to get an A if you're balancing this with another class. I just couldn't give it attention every single day because of a demanding day job schedule/other class responsibilities. The schedule was 1 project every 2 weeks.
+
+I ended up with an A in my other class and a B in this one. I could have easily made an A in this course if I would have taken it by itself and gave it the attention it deserved.
+
+There are no lectures beneficial to the projects. A few projects had TAs that provided walkthrough YouTube videos and these were very nice and helpful. This is more of a "Google and figure out what works" type of course. Most TAs were helpful.
+
+The only project I would warn future students of is ML on CLAMP. I haven't taken an ML course before and the learning curve for this was extremely frustrating, too demanding, and far too steep for THIS course.
+
+TLDR: Take this one alone to get the most out of it. Be prepared to Google. Take the full 2 weeks on ML on CLAMP if you have no ML experience.
+
+========================================================================================
+
+Review 51
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 3 / 5
+Workload: 12 hours / week
+Date: April 26, 2023
+Term: spring 2023
+Review ID: T41kuOxIsOtufZ6qj+cRJQ==
+Review:
+I've finished 4 classes in OMSCS: Game AI, VGD, HCI, and Intro to IS. So far, this course is the best. I had 0 experience in information security. I graduated Bachelors with an Economics degree. I still managed to get 100 on every project (except for the last one when I knew I could get an A). It's a tough class for newbies like me but it's doable.
+
+Projects are due every two weeks. They are very well crafted. I generally spend around 24 hours on each project (3 full working days). They examine different exploits so I didn't feel like topics I learned in one project helped me in another. It's a fresh start every two weeks.
+
+Ed Discussion was very helpful, so are the links TA provide in the doc. I read through almost everything. Use ChatGPT wisely as it's a great learning tool.
+
+As for Machine Learning that a lot of students hated, I wasn't so against it, mainly because I knew nothing about Machine Learning. I followed the steps in the doc and did fine. Looking back I realize that the TAs only allowed one way to do it... So I guess if you learned Machine Learning before it could actually be harmful.
+
+Overall this course is great. I recommend everyone interested in IS to take it. I learned a lot from the projects and they are fun to do.
+
+========================================================================================
+
+Review 52
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 3 hours / week
+Date: April 25, 2023
+Term: spring 2023
+Review ID: RuW3kVPIXMNseTxU8DcUoQ==
+Review:
+Really enjoyed this course. All project-based, no lectures. Two weeks for each project. Most of them were both fun and stretched my brain and showed me something new. The ML one was annoying but not a big problem. I'd have liked a little more depth on some of the earlier projects, and I'm not sure how much knowledge I'll retain from capture the flag, but was a worthwhile introduction to security.
+
+========================================================================================
+
+Review 53
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 8 hours / week
+Date: April 25, 2023
+Term: fall 2022
+Review ID: A6u4B+6zaq81qfI03YbMSg==
+Review:
+I really enjoyed this course. Took it for my foundational requirement. I had minimal knowledge in infosec, I took a course in my undergrad. It was a fun class, I enjoy more hands-on learning and this class was that. All assignments, no tests or exams. I was able to get an A, the key was to start assignments early and attend some office hours if you're having trouble.
+
+========================================================================================
+
+Review 54
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: April 24, 2023
+Term: spring 2023
+Review ID: gpzswRwJJ+EZjyqywWgwhw==
+Review:
+Overall I thought this course was good. It covers a fairly broad range of topics in Security across the projects. The TAs and ED and Slack were extremely helpful. I think without one or more of those things I would have fared much worse. If you don't like to teach yourself things or learn them through research then this won't be the class for you. The projects are well-known exploits that have lots of information pertaining to them available on the internet. Due to this, you are not handed the solutions to the projects in the writeups or in a lecture somewhere. You have to be willing to use the internet as your guide. Some people don't like that fact, but I don't see it as an issue.
+
+I think this class had lectures available but I never watched any. Having all projects for your grades was nice as I could work at my own pace and plan my effort across the two weeks it would be open.
+
+========================================================================================
+
+Review 55
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 8 hours / week
+Date: April 18, 2023
+Term: spring 2023
+Review ID: /AYno5q+5GPR3+XWWOtdTQ==
+Review:
+Great course for people not already familiar with cybersecurity issues. The lectures are dry but every other part of this course is pretty sweet. It's strictly project-based, meaning that your whole grade falls on 7 projects. The projects are effectively a survey on information security, it's kinda broad but honestly, I learned so many new and interesting topics I never thought would be useful but it's extremely relevant. You learn what you'd wanna look for in your own applications.
+
+There are definitely weeks where the course is difficult but overall this is a great class to pair with something more brutal.
+
+========================================================================================
+
+Review 56
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 1 / 5
+Workload: 8 hours / week
+Date: April 17, 2023
+Term: spring 2023
+Review ID: OTMORSBgU2cPEuwKJq+EwA==
+Review:
+This class was easy, but I did not enjoy it nor would I recommend it. I feel like I have gained 0 knowledge from this course. The projects are of varying quality as it appears that they were all designed by different TAs who don't talk to each other, some of whom are better at project design than others. The ML on CLAMP project in particular felt like it was thrown together in a single weekend by someone who wanted to put that they designed a project involving ML on their resume. This was the first semester for this iteration of the project and there were over 700 comments in ed on the 2nd flag asking for clarification. Hopefully dear future class-takers this project is redesigned for you. ML on CLAMP is such an actively bad project it takes my rating from an "eh, whatever" to "do not take".
+
+If I can up up with something positive to say it would be that I thought that the binary exploitation project was pretty fun and has inspired me to look at info security lab as a class in the future.
+
+========================================================================================
+
+Review 57
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 7 hours / week
+Date: April 17, 2023
+Term: spring 2023
+Review ID: PXCUXjXpxchgydkUbrzGmQ==
+Review:
+If reasoning and problem solving aren't your bag, you're going to have a hard time. Otherwise, this course is really fun and not very hard or time consuming. 11/10 would do again.
+
+========================================================================================
+
+Review 58
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 7 hours / week
+Date: April 12, 2023
+Term: spring 2023
+Review ID: QB7HK60fpYulGGgCOI7oOw==
+Review:
+It's a must take course if you want to be a hacker or want to pursue a cybersecurity career. However, most students realize that they have either no talent or no interest in cybersecurity after finishing the course. It's a good designed, project based course. Finally, it is not hard to get A grade but will have a hard time to find where to apply the skills they learn from the course. I guess that is why people complain about it. No, I don't think I can hack my bank's website with the knowledge and skills I picked up from the course, so it is useless after all...
+
+========================================================================================
+
+Review 59
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 3 / 5
+Workload: 10 hours / week
+Date: April 12, 2023
+Term: spring 2023
+Review ID: AclT2XdsY4FQ8vgjeTvpVQ==
+Review:
+This is my fourth course in OMSCS. Course material is varied and focuses on different areas of information security. Projects are engaging and introduce new information and skills. I especially enjoyed the CTF style projects. TAs are extremely helpful and guide students to an answer rather than just giving out answers. The "How to Ask for Help" post is helpful in this regard. All in all, a great class, I learned a lot, and I bookmarked a ton of new resources and topics to dig in further on later.
+
+========================================================================================
+
+Review 60
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 4 / 5
+Workload: 20 hours / week
+Date: April 10, 2023
+Term: spring 2023
+Review ID: +seG+D/jmIHFxNvbBEy0yA==
+Review:
+This course is by far the most useless and the worst one I have taken in the program. The TA's are so ridiculously terrible that it frustrates me to even type this. One of the TA's is the most arrogant person I have ever come across in my life. Giving ridiculous responses to students like " You're a graduate student figure it out" and so many others. The prof has ZERO involvement with the course and NONE of the lectures is correlated to projects. The projects are not taught and no materials are given you are just assigned a project and expected to figure out how to do it by yourself.
+
+My god are the TA's bad... like I can't even explain. By far the worst course I've taken in the program. Stay away!
+
+I'm saying what everyone's been dying to say on Ed discussion.
+
+========================================================================================
+
+Review 61
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 3 / 5
+Workload: 8 hours / week
+Date: April 10, 2023
+Term: spring 2023
+Review ID: prOp6Ml44PK0CRVQD+Pwcg==
+Review:
+Wow. What a class. Took this alongside GIOS for my first semester in OMSCS and the quality of the courses couldn't be more different. This class has been a massive source of frustration and a waste of time, and I have not gained any meaningful knowledge out of it.
+
+My main griefs with the courses:
+
+Two weeks per project, no information released beforehand.
+For some reason the TAs don't want to release information about projects ahead of time, even if students want to prepare (rightfully so) and gain background knowledge on the subject matter if they're missing it. This leads to possibly learning entire new skills and technologies all while trying to solve the projects. We all know cramming does not lead to any meaningful knowledge retention, and by the time the next project has released I've already forgetting everything I did. (TAs even threw out quotes like "this is basic ML this should be easy" when students were asked to fit and score models despite this being a cybersecurity course) 2. Extremely questionable quality of most of the projects.
+
+This has been the most disappointing for me. This is a top institution that is supposed to have rigorous courses, yet I have been served content of similar quality at online community colleges such as Oakton. This is not a compliment. Many projects had "resources" that consisted of a schizophrenic list of web page links (think medium blog posts) that were vaguely related to the subject but very rarely of any direct help. It truly feels like the TAs who make these projects rely on what they already know (usually being subject matter experts or people passionate about the subject), and then as an afterthought look for "acceptable" resources. 3. Threats of plagiarism and difficulty by obscurity
+
+TAs throughout the course loved reminding students that all code should be their own, one project even going so far as to forcing you to write your own code and only reference pseudo-code (even for basic algorithms like square-root or next prime number). It's obvious why this is the case, when most of the projects were solved by using boilerplate code with very little room for personal code style. While most of the TAs were very active, they were NOT very helpful. Since the projects are so surface level, the slightest bit of help could lead a student to an answer and this is apparently not wanted so all answers were given in the form of obscure riddles. A frequent occurrence in these projects was being mislead by vague instructions and being sent down a rabbit hole.
+
+========================================================================================
+
+Review 62
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 6 hours / week
+Date: March 15, 2023
+Term: spring 2023
+Review ID: BPDAowPQ6UgcjX/f9RM+Iw==
+Review:
+I found the project based format much more engaging than just listening to lectures and studying for tests. I do not come from a CS background, but I felt that none of the projects were overly difficult. Most could be completed in a weekend, say about 6-12 hours. The longest so far has been the ML project, which took about 20 hours. I haven't yet done the binary exploit or Java project.
+
+There are no required readings and lectures, so if you do not learn well by working on projects and learning on your own, this may not be a good class for you. Overall I would recommend this course as a low stress course alongside something harder. I am taking it with GIOS and it is a good fit with that.
+
+========================================================================================
+
+Review 63
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 6 hours / week
+Date: March 15, 2023
+Term: spring 2023
+Review ID: BPDAowPQ6UgcjX/f9RM+Iw==
+Review:
+I found this
+
+========================================================================================
+
+Review 64
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 3 / 5
+Workload: 7 hours / week
+Date: March 8, 2023
+Term: spring 2023
+Review ID: HPA9Q4ZPIbz/Y5TSuho38A==
+Review:
+The course is basically a waste of time. The TAs are there to deliver a project and that's about it. The lectures are completely unrelated to any project and not useful in the slightest. The projects range from easy to simply having to debug how the TAs want the answer to be formatted instead of actually learning anything. If you have patience it should be fine but I don't have the time to waste debugging the format of answers.
+
+========================================================================================
+
+Review 65
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 3 / 5
+Workload: 15 hours / week
+Date: January 8, 2023
+Term: fall 2022
+Review ID: a3tspyeClj86w9I/6v+aJw==
+Review:
+Background: BS CS, SWE with 5+ YOE, 1st OMSCS course.
+
+I really liked the class format. Most projects were fun and engaging. Despite what some reviews say, in my experience, TAs were helpful and responsive. Other students were helpful too - posting useful videos and articles in Ed discussions. Slack is super active, I highly recommend using it. People from a CS background will do just fine.
+
+========================================================================================
+
+Review 66
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 3 / 5
+Workload: 18 hours / week
+Date: January 2, 2023
+Term: fall 2022
+Review ID: bqgBcPGpP1CXPZ0EQO4ICQ==
+Review:
+The course is not that bad! TAs are the ones making it bad. They are clearly there just to monitor students and ensure no one is getting any help from other students. They won't answer any questions! They were honestly so unhelpful - there are no lectures to even help students know the concepts. It is a practical course with zero coverage of theory. There is no interaction with anyone except for the 1-hour office hour for each project (sometimes 2).
+
+My bachelor's degree is in electrical engineering, and I started my career as a control systems engineer then moving to industrial cybersecurity (7 years' experience). I have many cyber related certificates but don't have any programming experience. All I had was a Udemy python course. You can succeed in the class by knowing how to use Google and lookup things on the web.
+
+Don't go into the course expecting someone to actually teach you anything, the class is designed to weed non-technical students out. Be active on ED Discussions and put the self-learner hat on and you'll be fine.
+
+The most difficult project for me is the first one, capture the flag (Stack overflow, etc.) because I have never liked assembly.
+
+I finished the course with a solid A and if I could do it, you sure can!!
+
+========================================================================================
+
+Review 67
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 7 hours / week
+Date: December 24, 2022
+Term: fall 2022
+Review ID: 1ZHIpkEwugK6vd66GtZzkA==
+Review:
+This is a fun and interesting survey style course on security that introduces students to variety of security domains through well-crafted projects. There were 7 projects, with quizzes accompanying some of them and each project covers a different security application. Regarding the difficulty of each project, I found that everything required can be covered easily within the two weeks allotted. Ed discussion and slack are lively, and clues can be picked up there easily. The learning from each project depends on the effort you put in. You can easily look up the tasks online and solve the puzzle, but you can also choose to really learn about the relevant topics by reading the resources (book) provided in Syllabus page. Personally, I had the necessary background for only the C/ASM first project so that one went smoothly, but I still learned a few things. I did not know anything at all about the other project topics and I would still rate them as fairly easy, even the ML on CLAMP project which most everyone hated. Finally, I would rate the course as extremely easy, provided that the format remains same for future offerings.
+
+========================================================================================
+
+Review 68
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 4 / 5
+Difficulty: 2 / 5
+Workload: 3 hours / week
+Date: December 19, 2022
+Term: fall 2022
+Review ID: QeqHp6ubnykjyKiUwCbHwQ==
+Review:
+We are the first class to experience the revamped version of the class that is 100% graded on projects. There were no quizzes or exams.
+
+I liked this approach, but felt like the course could be improved with a selection of pertinent readings that provide a WHY/background for the projects.
+
+I think some people felt unsupported because you’re basically given an assignment spec and maybe (not always) some links to some resources. There was also no debrief on assignments, so if you didn’t “get it” yourself, you really wouldn’t ever get it.
+
+If you come from a CS background (like me), you will do just fine and likely find the course easy and non-time-consuming. But if you’re pivoting from some other field and don’t have the equivalent background knowledge, I definitely recommend joining a study group where you can share and discuss resources that are helpful for the projects (not answers! ;) )
+
+If you come from a CS background, join those study groups and help folks out! It’ll reinforce your own knowledge and make others feel included and supported.
+
+========================================================================================
+
+Review 69
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 5 hours / week
+Date: December 13, 2022
+Term: fall 2022
+Review ID: rGvGR765wcYfsyRFYAUTEg==
+Review:
+I liked this class. I'm about halfway through OMSCS and paired this with another class. This is apparently the first time the class has been 100% assignments (i.e. the only thing that counts towards your grade are the biweekly assignments. The assignments are varied but all interesting and fun in their own ways. Except the ML assignment, I thought that one was garbage.
+
+========================================================================================
+
+Review 70
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 8 hours / week
+Date: December 12, 2022
+Term: fall 2022
+Review ID: peAuhXGqVIEGN1MbmxjH0A==
+Review:
+5th class in the program and my favorite thus far honestly. I have zero security background and found it to be really fun, engaging, and enjoyable (besides the ML project, that one wasn't the best). The breadth of the class is fantastic and a great way to see if you want to explore the topics more in depth in future classes. Slack/Ed Discussion helped a ton and I felt like each project was a fun, challenging puzzle that was never trivial but never frustrating either.
+
+Think it would be a great first course or a relatively stress-free second course for those doubling up. Can't recommend it enough unless you're well-versed in the topic or a genius looking to have their face melted off by something more challenging.
+
+========================================================================================
+
+Review 71
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 5 hours / week
+Date: December 8, 2022
+Term: fall 2022
+Review ID: JgvUAFZ/8FDK8Ajv98Wk8g==
+Review:
+Just finished the last project, on track to get an A. I have no comp-sci background but this is my last course in the program. No pressure from quizzes and exams, only 7 programming assignments, all on gradescope except the last one. Assigments usually target at finding vulnerbilities in a program, most are like brain twister questions and once you "click", the exploitation code is very trivial. Each assignment has a two week window in a fall semester, most of which can be done within 10 hours. The first one is the most difficult imo, as it requires knowledge of x86 ASM and C. Took me around 15 hours without getting the extra credit. Overall it's an easy course, the assignments are fun, but I don't feel like I learnt much. Won't recommend for anyone with a cybersecurity background.
+
+========================================================================================
+
+Review 72
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 2 / 5
+Difficulty: 1 / 5
+Workload: 4 hours / week
+Date: November 10, 2022
+Term: fall 2022
+Review ID: ru4vywpW/PiW8SJj43l3wA==
+Review:
+I gave it 4 hours a week workload, which is generous at best. most of the two week assignments only took me a couple hours. Didnt get very much, if anything out of the course.
+
+Its good for an easy A but not if you want to learn stuff.
+
+========================================================================================
+
+Review 73
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 3 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: November 5, 2022
+Term: summer 2022
+Review ID: WmdQQI8xcBFyXSZrxsUN9w==
+Review:
+Overall it is easy A with no gain. Even thought the professor's lectures are great, the TAs ruin the course. Especially, one TA is extremely arrogant.
+
+========================================================================================
+
+Review 74
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 2 / 5
+Workload: 10 hours / week
+Date: October 24, 2022
+Term: fall 2022
+Review ID: OGk6pRC+2EbJlI+jECWvwA==
+Review:
+This is my first class with OMSCS with a non-CS background. This class has been revamped this semester and has no quizzes and exams. Projects are 100% of your grade and are very diverse. The breadth of the class is amazing and you get learn from many different areas (network, CTF, ML... etc). These projects are cleverly designed and challenging and the TA(s) are active and helpful. Some projects can use some improvement, but overall I highly recommend this class to get exposure to different aspects of security.
+
+Note: the ML project really got a lot of hate because people weren't expecting ML in a security class. I understand some of the frustrations, but the project instructions did a really good job guiding and teaching the concepts and you are just applying them with minor tweak. Having no ML experience, I was able to complete 100% of the project. I would take the negative comments on the ML portion with a grain of salt.
+
+========================================================================================
+
+Review 75
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 1 / 5
+Difficulty: 1 / 5
+Workload: 10 hours / week
+Date: August 13, 2022
+Term: fall 2021
+Review ID: IRIpJBA5qybeqz6RZg+g6w==
+Review:
+I took this course in Fall2019. This was the only course that gave me a "B". Don't get me wrong. I kinda enjoy the course materials. I got ~100 for all of the labs (except last one) and ~90 for all the quizzes and exams. Why did I get a B? Because the TAs just wouldn't be flexible enough to accept my correct answer for lab4 on the VM. And I was traveling in China so had to negotiate with them through VPN... I gave up in the end...
+
+========================================================================================
+
+Review 76
+----------------------------------------------------------------------------------------
+Code(s): CS-6035
+Rating: 5 / 5
+Difficulty: 3 / 5
+Workload: 20 hours / week
+Date: August 4, 2022
+Term: summer 2022
+Review ID: nub3PuFS5hQamHCj06AlaA==
+Review:
+I came across this quote (https://ctfd.io/whats-a-ctf/) when doing Project 1:
+
+"Capture The Flags ... can be a little hard. You definitely won't be spoon-fed. You'll probably get stuck at some point. But if you stick with it, you'll learn more about computers than you ever thought possible."
+
+I think that is not only a great description of the Information Security (IIS) CS-6035 course, but of the whole OMSCS program! It is what makes IIS a great course to do. And it is a good first course for new OMSCS students (if you have the right expectations).
+
+Let's tease this out a bit...
+
+First, the breadth of the IIS course is amazing. The projects will get you hands-on with the following technologies: c-development, assembly, gdb, hypervisors, JSONPath, machine learning, python, PHP, REST, HTML, and JavaScript. And, oh yeah - almost forgot, you also learn about cryptography and security.
+
+Second, you will probably get stuck. Do NOT be fooled into thinking the projects are easy. If you've got a background in a project then, yeah, it can go quite smoothly. But your background probably does not cover all four of the projects. So expect to struggle! You never write more than 10 lines of code for any sub-part of a project, but those 10 lines could take you 5 minutes or 5 days.
+
+Third, you won't be spoon-fed. One week into the course, when we started the "Capture the Flag" project, students were required to be reading assembly code and interpreting register values. This shocked a lot of students who were expecting an easier warm-up. Our summer course had about 800 students (the fall / spring course are supposed to be around 1,000 students) but less than half of the students submitted project 1 for grading. The TA's and the other students are all there to help and are cheering you on, but you've got to do the work yourself.
+
+Unfortunately, the nature of hacking means that you suffer many-many more failures than successes. So doing a project can often feel like banging your head against the wall. And the coded solution is so short that it is very hard for the TA's to give you hints. But the good news is that you will eventually crack each project if you've got enough time and enough block-headed-grit (this is what I meant earlier about having the right expectations). Don't give up!
+
+Finally, let's talk about the course content. The lectures are uncommonly boring. The lecture quizzes are definitely worth doing, but you could honestly skip all of the videos. You can find much better resources online that can bring the material to life. The courses are now run exclusively by TA's (no professors) and the TA's have long forgotten what the videos precisely cover. So when setting graded quizzes and exams, the TA's will just look at the topic headings and make a gut-feel assessment of what you should know.
+
+The graded quizzes and exams are multiple-choice (no re-grading requests). The TA's are not trying to trick you, but only a true expert would be able to eliminate all incorrect multiple-choice answers. That means it is hard to do well in the exams. One TA told us that he got 65/100 on his exam when he took the course (about average at the time though I believe the average is going up). The TA's emphasize that this is a project-based course and not to stress the exams. But there is a hard 90% cutoff if you want an A in the course. That effectively means your projects have got to be perfect.
+
+========================================================================================
+

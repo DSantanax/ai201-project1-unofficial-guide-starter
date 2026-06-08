@@ -9,6 +9,10 @@
 
 ## Domain
 
+OMSCS Georgia Tech Course Reviews & Structure for the Computing Systems specialization only.
+
+This information is valuable because I only want information that can help me search the course catalog for reviews on specific courses based on my specialization. This will also be useful when I prompt if this course builds up to the next course or what should I take before this specific course. Multiple reviews have good information if a course is challenging and if its recommended to take it full time or part time while employed.
+
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
 ---
@@ -20,16 +24,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+
+| 1 | omscentral | Course offered in the program | https://www.omscentral.com/courses/artificial-intelligence/reviews  |
+| 2 | omscentral | Course offered in the program | https://www.omscentral.com/courses/data-and-visual-analytics/reviews  |
+| 3 | omscentral | Course offered in the program | https://www.omscentral.com/courses/high-performance-computing/reviews  |
+| 4 | omscentral | Course offered in the program | https://www.omscentral.com/courses/high-performance-computer-architecture/reviews  |
+| 5 | omscentral | Course offered in the program | https://www.omscentral.com/courses/human-computer-interaction/reviews |
+| 6 | omscentral | Course offered in the program | https://www.omscentral.com/courses/introduction-to-graduate-algorithms/reviews |
+| 7 | omscentral | Course offered in the program | https://www.omscentral.com/courses/computer-networks/reviews |
+| 8 | omscentral | Course offered in the program | https://www.omscentral.com/courses/introduction-to-information-security/reviews |
+| 9 | omscentral | Course offered in the program | https://www.omscentral.com/courses/software-development-process/reviews |
+| 10 | omscentral | Course offered in the program | https://www.omscentral.com/courses/software-architecture-and-design/reviews |
+| 11 | omscentral | Course offered in the program | https://www.omscentral.com/courses/advanced-operating-systems/reviews |
 
 ---
 

@@ -1,0 +1,915 @@
+Program: Online Master of Science in Computer Science (OMSCS)
+Source: Pasted Georgia Tech OMSCS current courses and Computing Systems specialization text
+
+========================================================================================
+
+Legend
+----------------------------------------------------------------------------------------
+*: Foundational course
+A: Course administered by OMS-Analytics program, still open to OMSCS students
+C: Course administered by OMS-Cybersecurity program, still open to OMSCS students
+
+Notes:
+- Most current OMSCS courses are offered in Fall and Spring semesters.
+- Summer semesters offer a subset of the current course list.
+- Seminars are one credit hour, graded pass/fail, and do not count toward foundational or graduation requirements.
+- To continue in the program after the first 12 months from matriculation, students must complete 2 foundational courses with a grade of B or better.
+
+========================================================================================
+
+Current & Ongoing OMS Courses
+----------------------------------------------------------------------------------------
+Course count: 77
+
+Course 1
+----------------------------------------------------------------------------------------
+Code: CS 6035
+Title: Introduction to Information Security
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 2
+----------------------------------------------------------------------------------------
+Code: CS 6150
+Title: Computing for Good
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 3
+----------------------------------------------------------------------------------------
+Code: CS 6200
+Title: Introduction to Operating Systems
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O02
+
+Course 4
+----------------------------------------------------------------------------------------
+Code: CS 6210
+Title: Advanced Operating Systems
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 5
+----------------------------------------------------------------------------------------
+Code: CS 6211
+Title: System Design for Cloud Computing
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O12
+
+Course 6
+----------------------------------------------------------------------------------------
+Code: CS 6238
+Title: Secure Computer Systems
+Foundational: Yes
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 7
+----------------------------------------------------------------------------------------
+Code: CS 6250
+Title: Computer Networks
+Foundational: Yes
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 8
+----------------------------------------------------------------------------------------
+Code: CS 6260
+Title: Applied Cryptography
+Foundational: Yes
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 9
+----------------------------------------------------------------------------------------
+Code: CS 6261
+Title: Security Incident Response
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: Formerly CS 8803 O22
+
+Course 10
+----------------------------------------------------------------------------------------
+Code: CS 6262
+Title: Network Security
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 11
+----------------------------------------------------------------------------------------
+Code: CS 6263
+Title: Intro to Cyber Physical Systems Security
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O07
+
+Course 12
+----------------------------------------------------------------------------------------
+Code: CS 6264
+Title: Information Security Lab - System and Network Defenses
+Foundational: Yes
+Administered by: OMS-Cybersecurity
+Notes: Formerly CS 8803 O11
+
+Course 13
+----------------------------------------------------------------------------------------
+Code: CS 6265
+Title: Information Security Lab
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 14
+----------------------------------------------------------------------------------------
+Code: CS 6290
+Title: High Performance Computer Architecture
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 15
+----------------------------------------------------------------------------------------
+Code: CS 6291
+Title: Embedded Systems Optimization
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O04
+
+Course 16
+----------------------------------------------------------------------------------------
+Code: CS 6300
+Title: Software Development Process
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 17
+----------------------------------------------------------------------------------------
+Code: CS 6310
+Title: Software Architecture and Design
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 18
+----------------------------------------------------------------------------------------
+Code: CS 6340
+Title: Software Analysis
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 19
+----------------------------------------------------------------------------------------
+Code: CS 6400
+Title: Database Systems Concepts and Design
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 20
+----------------------------------------------------------------------------------------
+Code: CS 6422
+Title: Database System Implementation
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 21
+----------------------------------------------------------------------------------------
+Code: CS 6435
+Title: Digital Health Equity
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O16
+
+Course 22
+----------------------------------------------------------------------------------------
+Code: CS 6440
+Title: Intro to Health Informatics
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 23
+----------------------------------------------------------------------------------------
+Code: CS 6457
+Title: Video Game Design
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 24
+----------------------------------------------------------------------------------------
+Code: CS 6460
+Title: Educational Technology
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 25
+----------------------------------------------------------------------------------------
+Code: CS 6475
+Title: Computational Photography
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 26
+----------------------------------------------------------------------------------------
+Code: CS 6476
+Title: Computer Vision
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 27
+----------------------------------------------------------------------------------------
+Code: CS 6491
+Title: Foundations of Computer Graphics
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 28
+----------------------------------------------------------------------------------------
+Code: CS 6515
+Title: Intro to Graduate Algorithms
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 GA
+
+Course 29
+----------------------------------------------------------------------------------------
+Code: CS 6601
+Title: Artificial Intelligence
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 30
+----------------------------------------------------------------------------------------
+Code: CS 6603
+Title: AI, Ethics, and Society
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O10
+
+Course 31
+----------------------------------------------------------------------------------------
+Code: CS 6675
+Title: Advanced Internet Systems and Applications
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 32
+----------------------------------------------------------------------------------------
+Code: CS 6747
+Title: Advanced Malware Analysis
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: Formerly CS 8813
+
+Course 33
+----------------------------------------------------------------------------------------
+Code: CS 6750
+Title: Human-Computer Interaction
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 34
+----------------------------------------------------------------------------------------
+Code: CS 6795
+Title: Introduction to Cognitive Science
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 35
+----------------------------------------------------------------------------------------
+Code: CS 7210
+Title: Distributed Computing
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 36
+----------------------------------------------------------------------------------------
+Code: CS 7280
+Title: Network Science
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 37
+----------------------------------------------------------------------------------------
+Code: CS 7295
+Title: GPU Hardware and Software
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O21
+
+Course 38
+----------------------------------------------------------------------------------------
+Code: CS 7400
+Title: Quantum Computing
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O13
+
+Course 39
+----------------------------------------------------------------------------------------
+Code: CS 7470
+Title: Mobile & Ubiquitous Computing
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 40
+----------------------------------------------------------------------------------------
+Code: CS 7496
+Title: Computer Animation
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 41
+----------------------------------------------------------------------------------------
+Code: CS 7632
+Title: Game AI
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 42
+----------------------------------------------------------------------------------------
+Code: CS 7637
+Title: Knowledge-Based Artificial Intelligence - Cognitive Systems
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 43
+----------------------------------------------------------------------------------------
+Code: CS 7638
+Title: Robotics: AI Techniques
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O01
+
+Course 44
+----------------------------------------------------------------------------------------
+Code: CS 7639
+Title: Cyber-Physical Design and Analysis
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O09
+
+Course 45
+----------------------------------------------------------------------------------------
+Code: CS 7641
+Title: Machine Learning
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 46
+----------------------------------------------------------------------------------------
+Code: CS 7642
+Title: Reinforcement Learning
+Foundational: Yes
+Administered by: OMSCS
+Notes: Formerly CS 8803 O03
+
+Course 47
+----------------------------------------------------------------------------------------
+Code: CS 7643
+Title: Deep Learning
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 48
+----------------------------------------------------------------------------------------
+Code: CS 7646
+Title: Machine Learning for Trading
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 49
+----------------------------------------------------------------------------------------
+Code: CS 7650
+Title: Natural Language Processing
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 50
+----------------------------------------------------------------------------------------
+Code: CS 8803 O08
+Title: Compilers - Theory and Practice
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 51
+----------------------------------------------------------------------------------------
+Code: CS 8803 O15
+Title: Introduction to Computer Law
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 52
+----------------------------------------------------------------------------------------
+Code: CS 8803 O17
+Title: Global Entrepreneurship
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 53
+----------------------------------------------------------------------------------------
+Code: CS 8803 O20
+Title: Quantum Hardware
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 54
+----------------------------------------------------------------------------------------
+Code: CS 8803 O23
+Title: Modern Internet Research Methods
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 55
+----------------------------------------------------------------------------------------
+Code: CS 8803 O24
+Title: Intro to Research
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 56
+----------------------------------------------------------------------------------------
+Code: CS 8803 O27
+Title: Computer Graphics in the AI Era
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 57
+----------------------------------------------------------------------------------------
+Code: CS 8803 O29
+Title: Health Sensing and Interventions
+Foundational: No
+Administered by: OMSCS
+Notes: None
+
+Course 58
+----------------------------------------------------------------------------------------
+Code: CS 8803 O31
+Title: Cybersecurity of Drones
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 59
+----------------------------------------------------------------------------------------
+Code: CSE 6220
+Title: Intro to High-Performance Computing
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 60
+----------------------------------------------------------------------------------------
+Code: CSE 6242
+Title: Data and Visual Analytics
+Foundational: Yes
+Administered by: OMS-Analytics
+Notes: None
+
+Course 61
+----------------------------------------------------------------------------------------
+Code: CSE 6250
+Title: Big Data for Health Informatics
+Foundational: Yes
+Administered by: OMSCS
+Notes: None
+
+Course 62
+----------------------------------------------------------------------------------------
+Code: CSE 6742
+Title: Modeling, Simulation, and Military Gaming
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 63
+----------------------------------------------------------------------------------------
+Code: ECE 8843
+Title: Side-Channels and Their Role in Cybersecurity
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 64
+----------------------------------------------------------------------------------------
+Code: INTA 6450
+Title: Data Analytics & Security
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 65
+----------------------------------------------------------------------------------------
+Code: ISYE 6402
+Title: Time Series Analysis
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 66
+----------------------------------------------------------------------------------------
+Code: ISYE 6414
+Title: Regression Analysis
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 67
+----------------------------------------------------------------------------------------
+Code: ISYE 6420
+Title: Bayesian Statistics
+Foundational: Yes
+Administered by: OMS-Analytics
+Notes: None
+
+Course 68
+----------------------------------------------------------------------------------------
+Code: ISYE 6501
+Title: Intro to Analytics Modeling
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 69
+----------------------------------------------------------------------------------------
+Code: ISYE 6525
+Title: Topics on High-Dimensional Data Analytics
+Foundational: No
+Administered by: OMS-Analytics
+Notes: Formerly ISYE 8803
+
+Course 70
+----------------------------------------------------------------------------------------
+Code: ISYE 6644
+Title: Simulation and Modeling for Engineering and Science
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 71
+----------------------------------------------------------------------------------------
+Code: ISYE 6669
+Title: Deterministic Optimization
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 72
+----------------------------------------------------------------------------------------
+Code: MGT 6311
+Title: Digital Marketing
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 73
+----------------------------------------------------------------------------------------
+Code: MGT 8813
+Title: Financial Modeling
+Foundational: No
+Administered by: OMS-Analytics
+Notes: None
+
+Course 74
+----------------------------------------------------------------------------------------
+Code: PUBP 6725
+Title: Information Security Policies
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+Course 75
+----------------------------------------------------------------------------------------
+Code: PUBP 8823
+Title: Geopolitics of Cybersecurity
+Foundational: No
+Administered by: OMS-Cybersecurity
+Notes: None
+
+========================================================================================
+
+Seminars
+----------------------------------------------------------------------------------------
+Credit hours: 1
+Grading: Pass/fail
+Counts toward foundational requirements: No
+Counts toward graduation requirements: No
+Notes: Specific seminar availability is announced during Phase II registration through the omscs-official email list.
+
+========================================================================================
+
+Specialization: Computing Systems
+----------------------------------------------------------------------------------------
+Total specialization hours: 18
+Core course requirement: 9 hours
+Elective requirement: 9 hours
+Free electives: 12 hours, any courses offered through the OMSCS program
+
+Notes:
+- The pasted specialization page lists all courses that may fulfill the Computing Systems specialization regardless of campus.
+- Only courses with bold titles on the Georgia Tech page are offered through the online program, but bold formatting was not preserved in the pasted text.
+- Any Core Courses in excess of the 9-hour requirement may be used as Computing Systems Electives.
+
+========================================================================================
+
+Computing Systems Core Courses
+----------------------------------------------------------------------------------------
+Requirement: CS 6505 or CS 6515, plus 2 courses from the listed core options.
+
+Core Option 1
+----------------------------------------------------------------------------------------
+Code: CS 6505
+Title: Computability, Algorithms, and Complexity
+Role: Core algorithm requirement option
+Available in OMSCS current course list: No, based on pasted current course list
+
+Core Option 2
+----------------------------------------------------------------------------------------
+Code: CS 6515
+Title: Introduction to Graduate Algorithms
+Role: Core algorithm requirement option
+Available in OMSCS current course list: Yes
+
+Core Pick 2 Option 1
+----------------------------------------------------------------------------------------
+Code: CS 6210
+Title: Advanced Operating Systems
+Available in OMSCS current course list: Yes
+
+Core Pick 2 Option 2
+----------------------------------------------------------------------------------------
+Code: CS 6241
+Title: Compiler Design
+Available in OMSCS current course list: No, based on pasted current course list
+
+Core Pick 2 Option 3
+----------------------------------------------------------------------------------------
+Code: CS 6250
+Title: Computer Networks
+Available in OMSCS current course list: Yes
+
+Core Pick 2 Option 4
+----------------------------------------------------------------------------------------
+Code: CS 6290
+Title: High-Performance Computer Architecture
+Available in OMSCS current course list: Yes
+
+Core Pick 2 Option 5
+----------------------------------------------------------------------------------------
+Code: CS 6300
+Title: Software Development Process
+Available in OMSCS current course list: Yes
+
+Core Pick 2 Option 6
+----------------------------------------------------------------------------------------
+Code: CS 6301
+Title: Advanced Topics in Software Engineering
+Available in OMSCS current course list: No, based on pasted current course list
+
+Core Pick 2 Option 7
+----------------------------------------------------------------------------------------
+Code: CS 6390
+Title: Programming Languages
+Available in OMSCS current course list: No, based on pasted current course list
+
+Core Pick 2 Option 8
+----------------------------------------------------------------------------------------
+Code: CS 6400
+Title: Database Systems Concepts and Design
+Available in OMSCS current course list: Yes
+
+========================================================================================
+
+Computing Systems Electives
+----------------------------------------------------------------------------------------
+Requirement: Pick 3 courses from the listed electives.
+
+Elective 1
+----------------------------------------------------------------------------------------
+Code: CS 6035
+Title: Introduction to Information Security
+Available in OMSCS current course list: Yes
+
+Elective 2
+----------------------------------------------------------------------------------------
+Code: CS 6200
+Title: Graduate Introduction to Operating Systems
+Available in OMSCS current course list: Yes
+Notes: Current course list names this as Introduction to Operating Systems.
+
+Elective 3
+----------------------------------------------------------------------------------------
+Code: CS 6220
+Title: Big Data Systems and Analytics
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 4
+----------------------------------------------------------------------------------------
+Code: CS 6235
+Title: Real Time Systems
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 5
+----------------------------------------------------------------------------------------
+Code: CS 6238
+Title: Secure Computer Systems
+Available in OMSCS current course list: Yes
+
+Elective 6
+----------------------------------------------------------------------------------------
+Code: CS 6260
+Title: Applied Cryptography
+Available in OMSCS current course list: Yes
+
+Elective 7
+----------------------------------------------------------------------------------------
+Code: CS 6262
+Title: Network Security
+Available in OMSCS current course list: Yes
+
+Elective 8
+----------------------------------------------------------------------------------------
+Code: CS 6263
+Title: Intro to Cyber Physical Systems Security
+Available in OMSCS current course list: Yes
+
+Elective 9
+----------------------------------------------------------------------------------------
+Code: CS 6291
+Title: Embedded Systems Optimization
+Available in OMSCS current course list: Yes
+
+Elective 10
+----------------------------------------------------------------------------------------
+Code: CS 6310
+Title: Software Architecture and Design
+Available in OMSCS current course list: Yes
+
+Elective 11
+----------------------------------------------------------------------------------------
+Code: CS 6340
+Title: Software Analysis and Testing
+Available in OMSCS current course list: Yes
+Notes: Current course list names this as Software Analysis.
+
+Elective 12
+----------------------------------------------------------------------------------------
+Code: CS 6365
+Title: Introduction to Enterprise Computing
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 13
+----------------------------------------------------------------------------------------
+Code: CS 6422
+Title: Database System Implementation
+Available in OMSCS current course list: Yes
+
+Elective 14
+----------------------------------------------------------------------------------------
+Code: CS 6550
+Title: Design and Analysis of Algorithms
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 15
+----------------------------------------------------------------------------------------
+Code: CS 6675
+Title: Advanced Internet Computing Systems and Applications
+Available in OMSCS current course list: Yes
+Notes: Current course list names this as Advanced Internet Systems and Applications.
+
+Elective 16
+----------------------------------------------------------------------------------------
+Code: CS 7210
+Title: Distributed Computing
+Available in OMSCS current course list: Yes
+
+Elective 17
+----------------------------------------------------------------------------------------
+Code: CS 7260
+Title: Internetworking Architectures and Protocols
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 18
+----------------------------------------------------------------------------------------
+Code: CS 7270
+Title: Networked Applications and Services
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 19
+----------------------------------------------------------------------------------------
+Code: CS 7280
+Title: Network Science
+Available in OMSCS current course list: Yes
+
+Elective 20
+----------------------------------------------------------------------------------------
+Code: CS 7290
+Title: Advanced Topics in Microarchitecture
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 21
+----------------------------------------------------------------------------------------
+Code: CS 7292
+Title: Reliability and Security in Computer Architecture
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 22
+----------------------------------------------------------------------------------------
+Code: CS 7295
+Title: GPU Hardware and Software
+Available in OMSCS current course list: Yes
+
+Elective 23
+----------------------------------------------------------------------------------------
+Code: CS 7560
+Title: Theory of Cryptography
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 24
+----------------------------------------------------------------------------------------
+Code: CS 8803-FPL
+Title: Special Topics: Foundations of Programming Languages
+Available in OMSCS current course list: No, based on pasted current course list
+
+Elective 25
+----------------------------------------------------------------------------------------
+Code: CSE 6220
+Title: High-Performance Computing
+Available in OMSCS current course list: Yes
+Notes: Current course list names this as Intro to High-Performance Computing.
+
+========================================================================================
+
+Computing Systems Applicable OMSCS Special Topics / Special Cases
+----------------------------------------------------------------------------------------
+Rule: Any Special Topics (CS 8803) course taught by a School of Computer Science faculty member may count as a Computing Systems elective.
+
+Applicable OMSCS Course 1
+----------------------------------------------------------------------------------------
+Code: CS 6211
+Title: System Design for Cloud Computing
+Formerly: CS 8803 O12
+Available in OMSCS current course list: Yes
+
+Applicable OMSCS Course 2
+----------------------------------------------------------------------------------------
+Code: CS 6264
+Title: Information Security Lab - System and Network Defenses
+Formerly: CS 8803 O11
+Available in OMSCS current course list: Yes
+
+Applicable OMSCS Course 3
+----------------------------------------------------------------------------------------
+Code: CS 7400
+Title: Quantum Computing
+Formerly: CS 8803 O13
+Available in OMSCS current course list: Yes
+
+Applicable OMSCS Course 4
+----------------------------------------------------------------------------------------
+Code: CS 8803-O08
+Title: Compilers - Theory and Practice
+Available in OMSCS current course list: Yes
+
+========================================================================================
+
+Free Electives
+----------------------------------------------------------------------------------------
+Requirement: 12 hours
+Allowed courses: Any courses offered through the OMSCS program
+Notes: Use the Current & Ongoing OMS Courses section above as the pasted current OMSCS course list.
