@@ -1,6 +1,5 @@
 Course: High-Performance Computer Architecture
 Code(s): CS-6290
-Source file: Pasted text (2).txt
 Review count: 148
 
 ========================================================================================

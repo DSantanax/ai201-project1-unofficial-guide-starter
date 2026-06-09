@@ -12,13 +12,10 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # --- Vector store ---
 CHROMA_COLLECTION = "omscs"
-\
-
-
 CHROMA_PATH = "./chroma_db"
 
 # --- Retrieval ---
 N_RESULTS = 3
 
 # --- Documents ---
-DOCS_PATH = "./docs"
+DOCS_PATH = "./documents"

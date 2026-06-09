@@ -1,6 +1,5 @@
 Course: Software Architecture and Design
 Code(s): CS-6310
-Source file: Pasted text.txt
 Review count: 224
 
 ========================================================================================

@@ -1,6 +1,5 @@
 Course: Introduction to Information Security
 Code(s): CS-6035
-Source file: Pasted text (7).txt
 Review count: 76
 
 ========================================================================================

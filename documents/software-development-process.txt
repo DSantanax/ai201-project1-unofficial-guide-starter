@@ -1,6 +1,5 @@
 Course: Software Development Process
 Code(s): CS-6300
-Source file: Pasted text (6).txt
 Review count: 71
 
 ========================================================================================

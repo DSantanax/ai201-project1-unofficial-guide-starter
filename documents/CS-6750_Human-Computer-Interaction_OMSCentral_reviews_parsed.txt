@@ -1,6 +1,5 @@
 Course: Human-Computer Interaction
 Code(s): CS-6750
-Source file: Pasted text (2).txt
 Review count: 298
 
 ========================================================================================

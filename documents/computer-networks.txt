@@ -1,6 +1,5 @@
 Course: Computer Networks
 Code(s): CS-6250
-Source file: Pasted text (8).txt
 Review count: 73
 
 ========================================================================================

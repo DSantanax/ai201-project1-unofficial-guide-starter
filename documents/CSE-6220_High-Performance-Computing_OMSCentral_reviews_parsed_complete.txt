@@ -1,6 +1,5 @@
 Course: High Performance Computing
 Code(s): CSE-6220
-Source file: Pasted text.txt
 Review count: 103
 
 ========================================================================================

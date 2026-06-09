@@ -1,6 +1,5 @@
 Course: Advanced Operating Systems
 Code(s): CS-6210
-Source file: Pasted text.txt
 Review count: 143
 
 ========================================================================================

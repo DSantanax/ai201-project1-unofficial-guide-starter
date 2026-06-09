@@ -1,6 +1,5 @@
 Course: Data and Visual Analytics
 Code(s): CSE-6242
-Source file: Pasted text.txt
 Review count: 302
 
 ========================================================================================

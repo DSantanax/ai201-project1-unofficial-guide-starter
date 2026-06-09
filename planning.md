@@ -47,10 +47,14 @@ This information is valuable because I only want information that can help me se
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+     Chunk size will start around 300 characters.
 
 **Overlap:**
+     I will add an overlap of 50 characters.
 
 **Reasoning:**
+     This is due to some reviews being short compared to reviews that are very thorough. The overlap
+     will add some buffer if needed. The Pros and Cons list are also compact compared to the written reviews.
 
 ---
 
@@ -63,10 +67,14 @@ This information is valuable because I only want information that can help me se
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+     all-MiniLM-L6-v2
 
 **Top-k:**
+     3
 
 **Production tradeoff reflection:**
+     Fixed size is a great choice for the model because the entire text document is for a specific course. All reviews are self-contained, however, they do vary
+     from short and long reviews.
 
 ---
 
@@ -79,11 +87,11 @@ This information is valuable because I only want information that can help me se
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What is the most time consuming course for the Computing Systems specialization? | |
+| 2 | What 2 courses should not be taken together in the same semester because of the difficulty? | |
+| 3 | What is a great first introductory course to take that is not too difficult or too easy? | |
+| 4 | What is a great first introductory course to take that is easy? | |
+| 5 | List the top 3 challenging courses | |
 
 ---
 
@@ -93,9 +101,9 @@ This information is valuable because I only want information that can help me se
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Chunk sizing can cause issues due to the varying sizes of the reviews.
 
-2.
+2. I provided the course catalog but I am not sure if it will distiguish what is core, elective, and not required for specialization.
 
 ---
 
@@ -108,6 +116,8 @@ This information is valuable because I only want information that can help me se
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ---
+
+Document Ingesition (Txt files) -> Chunking (300 + 50 overlap) -> Vector store (ChromaDB) -> Retrieval (ChromaDB) -> Generation (all-MiniLM-L6-v2)
 
 ## AI Tool Plan
 
@@ -122,7 +132,13 @@ This information is valuable because I only want information that can help me se
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+     Ill create a Claude project for Project 1 and give the format I have in the txt files for each course. Ill explain these are reviews and what the format already contains. I will also give a quick overwiew of the assignment. Ill ask Claude to implement a function called load_docs and chunk_docs based on my current plan. The load_docs will return a list of the filename, text, and the course name. This will be passed to the chunk_docs to create the chunks + overlap based on the text for each file which will return a list of chunks, filename, and unique ID.
 
 **Milestone 4 — Embedding and retrieval:**
+     Based on the previous input, I will ask Claude to embed and store this information into ChromaDB using the unique ID.
+     For the retrieval section I will pass a query/question with k_results being the number of responses. This will use the collection to create a response that include the query, number of results to return, and the information to include which will be documents, metadata, and distances to prep for the generation.
 
 **Milestone 5 — Generation and interface:**
+     For the generation portion I ask Claude to use the model all-MiniLM-L6-v2 to create a grounded response by proving the # of reviews and the question in the user prompt. For the system prompt it must use what is given and avoid giving other information by stating they are not sure. The return will be the answer from the llm.
+
+     For the UI, I will ask it to create a basic UI using Tkinter that takes user input and uses the generation method to create a single response that will be displayed in the frontend.

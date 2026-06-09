@@ -1,6 +1,5 @@
 Course: Artificial Intelligence
 Code(s): CS-6601
-Source file: Pasted text (5).txt
 Review count: 80
 
 ========================================================================================
