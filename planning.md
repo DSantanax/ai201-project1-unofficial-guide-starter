@@ -25,17 +25,17 @@ This information is valuable because I only want information that can help me se
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
 
-| 1 | omscentral | Course offered in the program | https://www.omscentral.com/courses/artificial-intelligence/reviews  |
-| 2 | omscentral | Course offered in the program | https://www.omscentral.com/courses/data-and-visual-analytics/reviews  |
-| 3 | omscentral | Course offered in the program | https://www.omscentral.com/courses/high-performance-computing/reviews  |
-| 4 | omscentral | Course offered in the program | https://www.omscentral.com/courses/high-performance-computer-architecture/reviews  |
-| 5 | omscentral | Course offered in the program | https://www.omscentral.com/courses/human-computer-interaction/reviews |
-| 6 | omscentral | Course offered in the program | https://www.omscentral.com/courses/introduction-to-graduate-algorithms/reviews |
-| 7 | omscentral | Course offered in the program | https://www.omscentral.com/courses/computer-networks/reviews |
-| 8 | omscentral | Course offered in the program | https://www.omscentral.com/courses/introduction-to-information-security/reviews |
-| 9 | omscentral | Course offered in the program | https://www.omscentral.com/courses/software-development-process/reviews |
-| 10 | omscentral | Course offered in the program | https://www.omscentral.com/courses/software-architecture-and-design/reviews |
-| 11 | omscentral | Course offered in the program | https://www.omscentral.com/courses/advanced-operating-systems/reviews |
+| 1 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/artificial-intelligence/reviews>  |
+| 2 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/data-and-visual-analytics/reviews>  |
+| 3 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/high-performance-computing/reviews>  |
+| 4 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/high-performance-computer-architecture/reviews>  |
+| 5 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/human-computer-interaction/reviews> |
+| 6 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/introduction-to-graduate-algorithms/reviews> |
+| 7 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/computer-networks/reviews> |
+| 8 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/introduction-to-information-security/reviews> |
+| 9 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/software-development-process/reviews> |
+| 10 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/software-architecture-and-design/reviews> |
+| 11 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/advanced-operating-systems/reviews> |
 
 ---
 
@@ -47,7 +47,7 @@ This information is valuable because I only want information that can help me se
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-     Chunk size will start around 300 characters.
+     Chunk size will start around 1000 characters.
 
 **Overlap:**
      I will add an overlap of 50 characters.
@@ -141,4 +141,4 @@ Document Ingesition (Txt files) -> Chunking (300 + 50 overlap) -> Vector store (
 **Milestone 5 — Generation and interface:**
      For the generation portion I ask Claude to use the model all-MiniLM-L6-v2 to create a grounded response by proving the # of reviews and the question in the user prompt. For the system prompt it must use what is given and avoid giving other information by stating they are not sure. The return will be the answer from the llm.
 
-     For the UI, I will ask it to create a basic UI using Tkinter that takes user input and uses the generation method to create a single response that will be displayed in the frontend.
+     For the UI, I will ask it to create a basic UI using Gradio that takes user input and uses the generation method to create a single response that will be displayed in the frontend.

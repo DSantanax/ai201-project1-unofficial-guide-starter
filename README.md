@@ -11,31 +11,25 @@
 
 OMSCS Georgia Tech Course Reviews & Structure for the Computing Systems specialization only.
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+This information is valuable because I only want information that can help me search the course catalog for reviews on specific courses based on my specialization. This will also be useful when I prompt if this course builds up to the next course or what should I take before this specific course. Multiple reviews have good information if a course is challenging and if its recommended to take it full time or part time while employed.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/artificial-intelligence/reviews> |
+| 2 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/data-and-visual-analytics/reviews> |
+| 3 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/high-performance-computing/reviews> |
+| 4 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/high-performance-computer-architecture/reviews> |
+| 5 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/human-computer-interaction/reviews> |
+| 6 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/introduction-to-graduate-algorithms/reviews> |
+| 7 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/computer-networks/reviews> |
+| 8 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/introduction-to-information-security/reviews> |
+| 9 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/software-development-process/reviews> |
+| 10 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/software-architecture-and-design/reviews> |
+| 11 | omscentral | Course offered in the program | <https://www.omscentral.com/courses/advanced-operating-systems/reviews> |
 
 ---
 
@@ -49,12 +43,17 @@ OMSCS Georgia Tech Course Reviews & Structure for the Computing Systems speciali
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+     Chunk size will start around 1000 characters.
 
 **Overlap:**
+     I will add an overlap of 50 characters.
 
 **Why these choices fit your documents:**
+     This is due to some reviews being short compared to reviews that are very thorough. The overlap
+     will add some buffer if needed. The Pros and Cons list are also compact compared to the written reviews.
 
 **Final chunk count:**
+     600 characters
 
 ---
 
@@ -67,6 +66,7 @@ OMSCS Georgia Tech Course Reviews & Structure for the Computing Systems speciali
      latency, and local vs. API-hosted. -->
 
 **Model used:**
+     sentence-transformers (all-MiniLM-L6-v2)
 
 **Production tradeoff reflection:**
 
