@@ -1,17 +1,12 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
 ---
 
 ## Domain
 
 OMSCS Georgia Tech Course Reviews & Structure for the Computing Systems specialization only.
 
-This information is valuable because I only want information that can help me search the course catalog for reviews on specific courses based on my specialization. This will also be useful when I prompt if this course builds up to the next course or what should I take before this specific course. Multiple reviews have good information if a course is challenging and if its recommended to take it full time or part time while employed.
+This information is valuable because I only want information that can help me search the course catalog for reviews on specific courses based on my specialization. This will also be useful on suggestions when taking a course such as the next course or what should I take before this specific course. Reviews have good information if a course is challenging and if its recommended to take it full time or part time while employed.
 
 ---
 
@@ -35,55 +30,46 @@ This information is valuable because I only want information that can help me se
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
-
 **Chunk size:**
-     Chunk size will start around 1000 characters.
+     Chunk size will start around 1000 characters. That is because reviews from the OMSCentral are extensive and provide good information.
 
 **Overlap:**
-     I will add an overlap of 50 characters.
+     I will add an overlap of 100 characters since some reviews may extend over the chunk size.
 
 **Why these choices fit your documents:**
      This is due to some reviews being short compared to reviews that are very thorough. The overlap
-     will add some buffer if needed. The Pros and Cons list are also compact compared to the written reviews.
+     will add some buffer if needed. The Pros and Cons list are also compact compared to the written reviews. I did some prepocessing because I had to create the format from scrapping the data off the websites. This also includes removing any format I used.
 
 **Final chunk count:**
-     600 characters
+     800 characters
 
 ---
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
-
 **Model used:**
      sentence-transformers (all-MiniLM-L6-v2)
 
+**Top-k:**
+     3
+
 **Production tradeoff reflection:**
 
+     Fixed size is a great choice for the model because the entire text document is for a specific course. All reviews are self-contained, however, they do vary from short and long reviews. 
+     However, OMSCS is global and having multilingual support would be benificial. This would also take into consideration expenses because it will be used quite often and will require API restrictions such as the throttling.
 ---
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
-
 **System prompt grounding instruction:**
+     "You are an assistant that answers questions about Georgia Tech OMSCS courses "
+     "using ONLY the student reviews provided in the message. Please include the source and cite the reviews."
+     "Do not use any outside knowledge or make up details. "
+     "If the reviews do not contain enough information to answer, say you are not sure "
+     "and ask the user to restate the question rather than guessing."
 
 **How source attribution is surfaced in the response:**
+     The source quotes specific reviews and includes the course number/name.
 
 ---
 
@@ -95,11 +81,11 @@ This information is valuable because I only want information that can help me se
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | What is the most time consuming that required mainly reading and not applying programming concepts? | CS6750 Human Computer Interaction | Based on the provided reviews, it appears that the course CS6750 Human Computer Interaction required a significant amount of reading and writing, with a lot of material and concepts to learn, digest, understand, and apply (Review 4). The student mentioned that they had to read several academic papers and write reports weekly, and that they wrote 11 papers for the course. They also mentioned that they spent a significant amount of time watching videos, reading papers, and performing peer reviews. | Relevant | Accurate |
+| 2 | What 2 courses should not be taken together in the same semester because of the difficulty? | Based on the reviews provided, I am not sure which two courses should not be taken together in the same semester because of the difficulty. The reviews mention that certain courses are challenging, such as Introduction to Graduate Algorithms (Review 4) and Artificial Intelligence (Review 2), but they do not explicitly state which courses should not be taken together. | AI / GA / HPC / or HPCA | Relevant | Partially Accurate |
+| 3 | What is a great first introductory course to take that is not too difficult or too easy? | Based on the student reviews provided, it seems that CSE6242 Data and Visual Analytics might be a good introductory course. Review 4 describes it as "an intro to ML/Data Science" and states that "The class wasn't difficult, but it was challenging." This suggests that the course may be a good starting point for those new to the field. However, Review 2 warns that the course is very easy, calling it a "cake course" where you can "coast with minimal effort." | Computer Networks or Software Development Process | Partially relevant. | Partially accurate |
+| 4 | What is a great first introductory course to take that is easy? | Based on the data CSE 6242 is an easy course. | According to Review 2 (course: CSE6242 Data and Visual Analytics), the course CSE6242 is described as a "cake" course, where you can "coast with minimal effort" and it's rated as 1/5 in terms of difficulty. The reviewer mentions that it's a good course to take if you want to spend the least amount of effort and learn very little, making it a potentially easy introductory course. (Source: Review 2, Georgia Tech Student) | Relevant | Partially accurate |
+| 5 | List the top 3 challenging courses | GA / AI / HPC | Based on the provided student reviews, I can see that the course "Introduction to Graduate Algorithms" (CS6515) is considered one of the most difficult courses. However, I am not sure about the top 3 challenging courses as the reviews only mention this specific course. One review (Review 184) mentions that "Introduction to Graduate Algorithms" is "one of the most difficult courses in the masters" for the student, but it does not provide a ranking or comparison with other courses. | Partially relevant | Inaccurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -108,57 +94,45 @@ This information is valuable because I only want information that can help me se
 
 ## Failure Case Analysis
 
-<!-- Identify at least one question where retrieval or generation did not work as expected.
-     Write a specific explanation of *why* it failed, tied to a part of the pipeline.
-
-     "The answer was wrong" is not an explanation.
-
-     "The relevant information was split across a chunk boundary, so retrieval returned
-     only half the context — the model didn't have enough to answer correctly" is an explanation.
-
-     "The embedding model treated the professor's nickname as out-of-vocabulary and returned
-     results from an unrelated review" is an explanation. -->
-
 **Question that failed:**
+     List the top 3 challenging courses
 
 **What the system returned:**
+     Based on the provided student reviews, I can see that the course "Introduction to Graduate Algorithms" (CS6515) is considered one of the most difficult courses. However, I am not sure about the top 3 challenging courses as the reviews only mention this specific course.
 
 **Root cause (tied to a specific pipeline stage):**
+     This is possibly tied to data gathering and limited course information because I provided 11 courses with hundreds of reviews each. It did return some courses but not what I expected.
 
 **What you would change to fix it:**
+     I would list the entire course catalog and a list of courses available per specialization. This would be helpful to make comparison and list courses relevant to the specialization I am interested in.
+     The format I used to parse likely needed tuning as well because I included other information that was not needed. I likely need to also update the prompt since it may be too broad but the data needs more tuning.
 
 ---
 
 ## Spec Reflection
 
-<!-- Reflect on how planning.md shaped your implementation.
-     Answer both questions with at least 2–3 sentences each. -->
-
 **One way the spec helped you during implementation:**
+     The spec sheet helped me understand the overall architecture and layout of the project. It gave a brief overview and allowed me to prepare each section before coding.
+     This also assisted me with AI generated responses because the spec sheet was reviewed and it helped the Claude understand my question in depth.
 
 **One way your implementation diverged from the spec, and why:**
+     I had to change the fixed size, k-length, and adjust my questions with Claude. I updated my code and my spec after each milestone. Also, I had split my sections per file similar to our Lab 1 project 
+     and change my discussion to include code organization.
 
 ---
 
-## AI Usage
+## AI Usage->
 
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
+**Instance 1**:
 
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
+Prompt: Based on my MIlestone 3 I plan on creating a RAG model. that uses a fixed size method based on chunking.  I already created the txt files for 11 courses with review, rating, difficulty, and other information. My load_docs function will return a list objects containing the filename, the text within that file, and the course name which is the file name. It will have a list of objects for each file. This input will then be passed into the chunk_documents that will take the file text and the name of the course to create a chunking of 350 characters with an overlap of 50 characters until its finished reading the entire text of the file. This method will return a list of objects containing the chunks, course name, and a unique chunk id. I will then pass these chunks into the ChromaDB to embed it but thats for my next milestone.
 
-**Instance 1**
+Outcome: It tried to modify my files immediately after reading my spec and question. Also, the outcome was all in a single file rather than taking into consideration the future milestones and splitting the work into different files/folders which I could have specified. I had to override the execution method to convert it into a plan instead where I can modify the changes.
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+**Instance 2**:
 
-**Instance 2**
+Prompt: Now that Milestone 3 is complete, I plan on passing the chunking object list into the Embedding function process to save this information to ChromaDB with the unique chunk_id. This function will add the embeded list and store the chunks using the collection from chromaDB with document (chunk text), metadatas (title), and ids (chunk_id) as parameters.
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+The retreive function will have the query and number of results to retrieve the response which will contain the format document, metadatas, and distance. The return will the first result of the response list.
+
+Outcome: Claude reorganized my code and created 2 functions from the spec list based on my prompt. It also moved my main function as I specified this to keep my code clean. One thing it did do that I later planned on changing was the reset collection for chroma db because it was reset on every run. I also had to stop Claude due to issues it was getting when trying to test the changes by running commands and not receiving the response it needed from my virtual environment. This was likely due to permission issues and issues with Claude not seeing my .venv enabled.

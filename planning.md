@@ -50,7 +50,7 @@ This information is valuable because I only want information that can help me se
      Chunk size will start around 1000 characters.
 
 **Overlap:**
-     I will add an overlap of 50 characters.
+     I will add an overlap of 100 characters.
 
 **Reasoning:**
      This is due to some reviews being short compared to reviews that are very thorough. The overlap
@@ -87,7 +87,7 @@ This information is valuable because I only want information that can help me se
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | What is the most time consuming course for the Computing Systems specialization? | |
+| 1 | What is the most time consuming that required mainly reading and not applying programming concepts? | |
 | 2 | What 2 courses should not be taken together in the same semester because of the difficulty? | |
 | 3 | What is a great first introductory course to take that is not too difficult or too easy? | |
 | 4 | What is a great first introductory course to take that is easy? | |
@@ -104,6 +104,8 @@ This information is valuable because I only want information that can help me se
 1. Chunk sizing can cause issues due to the varying sizes of the reviews.
 
 2. I provided the course catalog but I am not sure if it will distiguish what is core, elective, and not required for specialization.
+
+3. Limited course reviews because I only provided 11 courses not the entire catalog.
 
 ---
 

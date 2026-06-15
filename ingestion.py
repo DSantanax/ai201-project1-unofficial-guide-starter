@@ -48,7 +48,7 @@ def load_docs(docs_path: str = DEFAULT_DOCS_PATH) -> list[dict]:
 
 
 def chunk_documents(
-    docs: list[dict], chunk_size: int = 600, overlap: int = 50
+    docs: list[dict], chunk_size: int = 800, overlap: int = 100
 ) -> list[dict]:
     """Split each document's text into overlapping fixed-size character chunks.
 
